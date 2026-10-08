@@ -1,0 +1,4220 @@
+{
+  "retrieved": "2026-10-08",
+  "license": "CC BY-SA 4.0",
+  "readings": [
+    {
+      "code": "アイ",
+      "name": "相内",
+      "reading": "あいのない",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9B%B8%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "アカ",
+      "name": "赤井川",
+      "reading": "あかいがわ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E4%BA%95%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B5%A4%E4%BA%95%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "アケ",
+      "name": "厚岸",
+      "reading": "あっけし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8E%9A%E5%B2%B8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8E%9A%E5%B2%B8%E9%A7%85&action=history"
+    },
+    {
+      "code": "アコ",
+      "name": "あいの里公園",
+      "reading": "あいのさとこうえん",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%81%AE%E9%87%8C%E5%85%AC%E5%9C%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E3%81%82%E3%81%84%E3%81%AE%E9%87%8C%E5%85%AC%E5%9C%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "アサ",
+      "name": "旭川",
+      "reading": "あさひかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%AD%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%AD%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "アシ",
+      "name": "旭川四条",
+      "reading": "あさひかわよじょう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%AD%E5%B7%9D%E5%9B%9B%E6%9D%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%AD%E5%B7%9D%E5%9B%9B%E6%9D%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "アシ",
+      "name": "芦別",
+      "reading": "あしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%A6%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%A6%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "アツ",
+      "name": "厚内",
+      "reading": "あつない",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8E%9A%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8E%9A%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "アト",
+      "name": "厚床",
+      "reading": "あっとこ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8E%9A%E5%BA%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8E%9A%E5%BA%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "アネ",
+      "name": "姉別",
+      "reading": "あねべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A7%89%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A7%89%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "アノ",
+      "name": "あいの里教育大",
+      "reading": "あいのさときょういくだい",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%81%AE%E9%87%8C%E6%95%99%E8%82%B2%E5%A4%A7%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E3%81%82%E3%81%84%E3%81%AE%E9%87%8C%E6%95%99%E8%82%B2%E5%A4%A7%E9%A7%85&action=history"
+    },
+    {
+      "code": "アノ",
+      "name": "芦野",
+      "reading": "あしの",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%A6%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%A6%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "アハ",
+      "name": "網走",
+      "reading": "あばしり",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B6%B2%E8%B5%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B6%B2%E8%B5%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "アヒ",
+      "name": "旭",
+      "reading": "あさひ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%AD%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%AD%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "アフ",
+      "name": "阿分",
+      "reading": "あふん",
+      "url": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%88%86%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%98%BF%E5%88%86%E9%A7%85&action=history"
+    },
+    {
+      "code": "アヘ",
+      "name": "厚別",
+      "reading": "あつべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8E%9A%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8E%9A%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "アマ",
+      "name": "安足間",
+      "reading": "あんたろま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E8%B6%B3%E9%96%93%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AE%89%E8%B6%B3%E9%96%93%E9%A7%85&action=history"
+    },
+    {
+      "code": "アヨ",
+      "name": "足寄",
+      "reading": "あしょろ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B6%B3%E5%AF%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B6%B3%E5%AF%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "アラ",
+      "name": "赤平",
+      "reading": "あかびら",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%B9%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B5%A4%E5%B9%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "アリ",
+      "name": "朝里",
+      "reading": "あさり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%87%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%9D%E9%87%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "イイ",
+      "name": "糸井",
+      "reading": "いとい",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B3%B8%E4%BA%95%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B3%B8%E4%BA%95%E9%A7%85&action=history"
+    },
+    {
+      "code": "イウ",
+      "name": "伊奈牛",
+      "reading": "いなうし",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%A5%88%E7%89%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BC%8A%E5%A5%88%E7%89%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "イカ",
+      "name": "伊香牛",
+      "reading": "いかうし",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%A6%99%E7%89%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BC%8A%E9%A6%99%E7%89%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "イク",
+      "name": "幾春別",
+      "reading": "いくしゅんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%BE%E6%98%A5%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%BE%E6%98%A5%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "イク",
+      "name": "生野",
+      "reading": "いくの",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%9F%E9%87%8E%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%94%9F%E9%87%8E%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "イケ",
+      "name": "池田",
+      "reading": "いけだ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E7%94%B0%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B1%A0%E7%94%B0%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "イサ",
+      "name": "愛山",
+      "reading": "あいざん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%84%9B%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "イシ",
+      "name": "石倉",
+      "reading": "いしくら",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%80%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9F%B3%E5%80%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "イソ",
+      "name": "上磯",
+      "reading": "かみいそ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%A3%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E7%A3%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "イタ",
+      "name": "池田園",
+      "reading": "いけだえん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E7%94%B0%E5%9C%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B1%A0%E7%94%B0%E5%9C%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "イチ",
+      "name": "余市",
+      "reading": "よいち",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%99%E5%B8%82%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BD%99%E5%B8%82%E9%A7%85&action=history"
+    },
+    {
+      "code": "イツ",
+      "name": "泉川",
+      "reading": "いずみかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B3%89%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B3%89%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "イト",
+      "name": "糸魚沢",
+      "reading": "いといざわ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B3%B8%E9%AD%9A%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B3%B8%E9%AD%9A%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "イナ",
+      "name": "稲穂",
+      "reading": "いなほ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E7%A9%82%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A8%B2%E7%A9%82%E9%A7%85&action=history"
+    },
+    {
+      "code": "イナ",
+      "name": "岩内",
+      "reading": "いわない",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B2%A9%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "イノ",
+      "name": "伊納",
+      "reading": "いのう",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E7%B4%8D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BC%8A%E7%B4%8D%E9%A7%85&action=history"
+    },
+    {
+      "code": "イハ",
+      "name": "生田原",
+      "reading": "いくたはら",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%9F%E7%94%B0%E5%8E%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%94%9F%E7%94%B0%E5%8E%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "イフ",
+      "name": "磯分内",
+      "reading": "いそぶんない",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A3%AF%E5%88%86%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A3%AF%E5%88%86%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "イヘ",
+      "name": "愛別",
+      "reading": "あいべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%84%9B%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "イミ",
+      "name": "泉沢",
+      "reading": "いずみさわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B3%89%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B3%89%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "イヤ",
+      "name": "石谷",
+      "reading": "いしや",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E8%B0%B7%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9F%B3%E8%B0%B7%E9%A7%85&action=history"
+    },
+    {
+      "code": "イリ",
+      "name": "北海道医療大学",
+      "reading": "ほっかいどういりょうだいがく",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E5%8C%BB%E7%99%82%E5%A4%A7%E5%AD%A6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E6%B5%B7%E9%81%93%E5%8C%BB%E7%99%82%E5%A4%A7%E5%AD%A6%E9%A7%85&action=history"
+    },
+    {
+      "code": "イワ",
+      "name": "岩見沢",
+      "reading": "いわみざわ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E8%A6%8B%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B2%A9%E8%A6%8B%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウウ",
+      "name": "東雲",
+      "reading": "とううん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%9B%B2%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E9%9B%B2%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ウエ",
+      "name": "雨煙別",
+      "reading": "うえんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%9B%A8%E7%85%99%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%9B%A8%E7%85%99%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウカ",
+      "name": "浦河",
+      "reading": "うらかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%A6%E6%B2%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%A6%E6%B2%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウシ",
+      "name": "初田牛",
+      "reading": "はったうし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%88%9D%E7%94%B0%E7%89%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%88%9D%E7%94%B0%E7%89%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウス",
+      "name": "有珠",
+      "reading": "うす",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%89%E7%8F%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%89%E7%8F%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウタ",
+      "name": "歌志内",
+      "reading": "うたしない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%8C%E5%BF%97%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%AD%8C%E5%BF%97%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウツ",
+      "name": "宇津",
+      "reading": "うつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E6%B4%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AE%87%E6%B4%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウト",
+      "name": "鵜苫",
+      "reading": "うとま",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B5%9C%E8%8B%AB%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B5%9C%E8%8B%AB%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウナ",
+      "name": "植苗",
+      "reading": "うえなえ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A4%8D%E8%8B%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A4%8D%E8%8B%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウヘ",
+      "name": "滝ノ上",
+      "reading": "たきのうえ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BB%9D%E3%83%8E%E4%B8%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%BB%9D%E3%83%8E%E4%B8%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウマ",
+      "name": "唐松",
+      "reading": "とうまつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%9D%BE%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%94%90%E6%9D%BE%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウマ",
+      "name": "宇摩",
+      "reading": "うま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E6%91%A9%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AE%87%E6%91%A9%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウミ",
+      "name": "歌神",
+      "reading": "かしん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%8C%E7%A5%9E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%AD%8C%E7%A5%9E%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウラ",
+      "name": "浦幌",
+      "reading": "うらほろ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%A6%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%A6%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ウラ",
+      "name": "浜田浦",
+      "reading": "はまたうら",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E7%94%B0%E6%B5%A6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%9C%E7%94%B0%E6%B5%A6%E9%A7%85&action=history"
+    },
+    {
+      "code": "エオ",
+      "name": "江部乙",
+      "reading": "えべおつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E9%83%A8%E4%B9%99%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B1%9F%E9%83%A8%E4%B9%99%E9%A7%85&action=history"
+    },
+    {
+      "code": "エシ",
+      "name": "江差",
+      "reading": "えさし",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%AE%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B1%9F%E5%B7%AE%E9%A7%85&action=history"
+    },
+    {
+      "code": "エツ",
+      "name": "江別",
+      "reading": "えべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B1%9F%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "エニ",
+      "name": "恵庭",
+      "reading": "えにわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%81%B5%E5%BA%AD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%81%B5%E5%BA%AD%E9%A7%85&action=history"
+    },
+    {
+      "code": "エヒ",
+      "name": "恵比島",
+      "reading": "えびしま",
+      "url": "https://ja.wikipedia.org/wiki/%E6%81%B5%E6%AF%94%E5%B3%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%81%B5%E6%AF%94%E5%B3%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "エン",
+      "name": "遠軽",
+      "reading": "えんがる",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%BB%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%81%A0%E8%BB%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "オア",
+      "name": "大麻",
+      "reading": "おおあさ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%BA%BB%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E9%BA%BB%E9%A7%85&action=history"
+    },
+    {
+      "code": "オイ",
+      "name": "追分",
+      "reading": "おいわけ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BF%BD%E5%88%86%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%BF%BD%E5%88%86%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "オウ",
+      "name": "大中山",
+      "reading": "おおなかやま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%B8%AD%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E4%B8%AD%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "オエ",
+      "name": "大沼公園",
+      "reading": "おおぬまこうえん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%BC%E5%85%AC%E5%9C%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E6%B2%BC%E5%85%AC%E5%9C%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "オカ",
+      "name": "緑が丘",
+      "reading": "みどりがおか",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "オキ",
+      "name": "荻伏",
+      "reading": "おぎふし",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E4%BC%8F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8D%BB%E4%BC%8F%E9%A7%85&action=history"
+    },
+    {
+      "code": "オケ",
+      "name": "置戸",
+      "reading": "おけと",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BD%AE%E6%88%B8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%BD%AE%E6%88%B8%E9%A7%85&action=history"
+    },
+    {
+      "code": "オコ",
+      "name": "興部",
+      "reading": "おこっぺ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%88%88%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%88%88%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "オサ",
+      "name": "納内",
+      "reading": "おさむない",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%8D%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B4%8D%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "オシ",
+      "name": "落石",
+      "reading": "おちいし",
+      "url": "https://ja.wikipedia.org/wiki/%E8%90%BD%E7%9F%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%90%BD%E7%9F%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "オソ",
+      "name": "晩生内",
+      "reading": "おそきない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%99%A9%E7%94%9F%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%99%A9%E7%94%9F%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "オタ",
+      "name": "小樽",
+      "reading": "おたる",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A8%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%8F%E6%A8%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "オチ",
+      "name": "落合",
+      "reading": "おちあい",
+      "url": "https://ja.wikipedia.org/wiki/%E8%90%BD%E5%90%88%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%90%BD%E5%90%88%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "オツ",
+      "name": "長都",
+      "reading": "おさつ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%83%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%95%B7%E9%83%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "オト",
+      "name": "音威子府",
+      "reading": "おといねっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%9F%B3%E5%A8%81%E5%AD%90%E5%BA%9C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%9F%B3%E5%A8%81%E5%AD%90%E5%BA%9C%E9%A7%85&action=history"
+    },
+    {
+      "code": "オナ",
+      "name": "尾白内",
+      "reading": "おしろない",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E7%99%BD%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%BE%E7%99%BD%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "オニ",
+      "name": "鬼志別",
+      "reading": "おにしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%BF%97%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%AC%BC%E5%BF%97%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "オハ",
+      "name": "青葉",
+      "reading": "あおば",
+      "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E8%91%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%9D%92%E8%91%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "オヒ",
+      "name": "羽帯",
+      "reading": "はおび",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%B8%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%BE%BD%E5%B8%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "オヘ",
+      "name": "大狩部",
+      "reading": "おおかりべ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%8B%A9%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E7%8B%A9%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "オヘ",
+      "name": "落部",
+      "reading": "おとしべ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%90%BD%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%90%BD%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "オホ",
+      "name": "尾幌",
+      "reading": "おぼろ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%BE%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "オマ",
+      "name": "大沼",
+      "reading": "おおぬま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E6%B2%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "オミ",
+      "name": "汐見",
+      "reading": "しおみ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%90%E8%A6%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B1%90%E8%A6%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "オユ",
+      "name": "奥行臼",
+      "reading": "おくゆきうす",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E8%A1%8C%E8%87%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A5%A5%E8%A1%8C%E8%87%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "オヨ",
+      "name": "大誉地",
+      "reading": "およち",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%AA%89%E5%9C%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E8%AA%89%E5%9C%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "オラ",
+      "name": "渡島砂原",
+      "reading": "おしまさわら",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E7%A0%82%E5%8E%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%A1%E5%B3%B6%E7%A0%82%E5%8E%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "オロ",
+      "name": "帯広",
+      "reading": "おびひろ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B8%AF%E5%BA%83%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B8%AF%E5%BA%83%E9%A7%85&action=history"
+    },
+    {
+      "code": "オワ",
+      "name": "渡島大沢",
+      "reading": "おしまおおさわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E5%A4%A7%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%A1%E5%B3%B6%E5%A4%A7%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "オン",
+      "name": "音別",
+      "reading": "おんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%9F%B3%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%9F%B3%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "カオ",
+      "name": "上音威子府",
+      "reading": "かみおといねっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%9F%B3%E5%A8%81%E5%AD%90%E5%BA%9C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E9%9F%B3%E5%A8%81%E5%AD%90%E5%BA%9C%E9%A7%85&action=history"
+    },
+    {
+      "code": "カキ",
+      "name": "川北",
+      "reading": "かわきた",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8C%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B7%9D%E5%8C%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "カク",
+      "name": "神楽岡",
+      "reading": "かぐらおか",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%A5%BD%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A5%9E%E6%A5%BD%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "カコ",
+      "name": "上興部",
+      "reading": "かみおこっぺ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%88%88%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E8%88%88%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "カサ",
+      "name": "三笠",
+      "reading": "みかさ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%AC%A0%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%89%E7%AC%A0%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "カス",
+      "name": "上砂川",
+      "reading": "かみすながわ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%A0%82%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E7%A0%82%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "カセ",
+      "name": "開盛",
+      "reading": "かいせい",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%8B%E7%9B%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%96%8B%E7%9B%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "カタ",
+      "name": "上多度志",
+      "reading": "かみたどし",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%9A%E5%BA%A6%E5%BF%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%A4%9A%E5%BA%A6%E5%BF%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "カト",
+      "name": "上利別",
+      "reading": "かみとしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%88%A9%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%88%A9%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "カナ",
+      "name": "金山",
+      "reading": "かなやま",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B1%B1%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%87%91%E5%B1%B1%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "カニ",
+      "name": "上ノ国",
+      "reading": "かみのくに",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E3%83%8E%E5%9B%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E3%83%8E%E5%9B%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "カニ",
+      "name": "川西",
+      "reading": "かわにし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%A5%BF%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B7%9D%E8%A5%BF%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "カヌ",
+      "name": "茅沼",
+      "reading": "かやぬま",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%85%E6%B2%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8C%85%E6%B2%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "カネ",
+      "name": "金華",
+      "reading": "かねはな",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E8%8F%AF%E4%BF%A1%E5%8F%B7%E5%A0%B4",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%87%91%E8%8F%AF%E4%BF%A1%E5%8F%B7%E5%A0%B4&action=history"
+    },
+    {
+      "code": "カノ",
+      "name": "上富良野",
+      "reading": "かみふらの",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%AF%8C%E8%89%AF%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%AF%8C%E8%89%AF%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "カハ",
+      "name": "樺岡",
+      "reading": "かばおか",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A8%BA%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A8%BA%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "カフ",
+      "name": "愛冠",
+      "reading": "あいかっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E5%86%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%84%9B%E5%86%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "カヘ",
+      "name": "鹿部",
+      "reading": "しかべ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B9%BF%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "カホ",
+      "name": "上尾幌",
+      "reading": "かみおぼろ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B0%BE%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%B0%BE%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "カマ",
+      "name": "兜沼",
+      "reading": "かぶとぬま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%9C%E6%B2%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%85%9C%E6%B2%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "カミ",
+      "name": "上幌向",
+      "reading": "かみほろむい",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B9%8C%E5%90%91%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%B9%8C%E5%90%91%E9%A7%85&action=history"
+    },
+    {
+      "code": "カム",
+      "name": "上武佐",
+      "reading": "かみむさ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%AD%A6%E4%BD%90%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E6%AD%A6%E4%BD%90%E9%A7%85&action=history"
+    },
+    {
+      "code": "カヤ",
+      "name": "萱野",
+      "reading": "かやの",
+      "url": "https://ja.wikipedia.org/wiki/%E8%90%B1%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%90%B1%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "カユ",
+      "name": "上湧別",
+      "reading": "かみゆうべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%B9%A7%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E6%B9%A7%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "カヨ",
+      "name": "上名寄",
+      "reading": "かみなよろ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%90%8D%E5%AF%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%90%8D%E5%AF%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "カラ",
+      "name": "上白滝",
+      "reading": "かみしらたき",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%99%BD%E6%BB%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E7%99%BD%E6%BB%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "カロ",
+      "name": "上常呂",
+      "reading": "かみところ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B8%B8%E5%91%82%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%B8%B8%E5%91%82%E9%A7%85&action=history"
+    },
+    {
+      "code": "カワ",
+      "name": "川端",
+      "reading": "かわばた",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E7%AB%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B7%9D%E7%AB%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "キイ",
+      "name": "北一已",
+      "reading": "きたいちやん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%80%E5%B7%B2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E4%B8%80%E5%B7%B2%E9%A7%85&action=history"
+    },
+    {
+      "code": "キエ",
+      "name": "北遠軽",
+      "reading": "きたえんがる",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%81%A0%E8%BB%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E9%81%A0%E8%BB%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "キエ",
+      "name": "北美瑛",
+      "reading": "きたびえい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%BE%8E%E7%91%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E7%BE%8E%E7%91%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "キコ",
+      "name": "木古内",
+      "reading": "きこない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%8F%A4%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%A8%E5%8F%A4%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "キケ",
+      "name": "桔梗",
+      "reading": "ききょう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%94%E6%A2%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A1%94%E6%A2%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "キサ",
+      "name": "清里町",
+      "reading": "きよさとちょう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E9%87%8C%E7%94%BA%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%85%E9%87%8C%E7%94%BA%E9%A7%85&action=history"
+    },
+    {
+      "code": "キシ",
+      "name": "大岸",
+      "reading": "おおきし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B2%B8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E5%B2%B8%E9%A7%85&action=history"
+    },
+    {
+      "code": "キシ",
+      "name": "共進",
+      "reading": "きょうしん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%B1%E9%80%B2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%85%B1%E9%80%B2%E9%A7%85&action=history"
+    },
+    {
+      "code": "キチ",
+      "name": "北剣淵",
+      "reading": "きたけんぶち",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%89%A3%E6%B7%B5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E5%89%A3%E6%B7%B5%E9%A7%85&action=history"
+    },
+    {
+      "code": "キナ",
+      "name": "北永山",
+      "reading": "きたながやま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B0%B8%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E6%B0%B8%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "キノ",
+      "name": "北日ノ出",
+      "reading": "きたひので",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%97%A5%E3%83%8E%E5%87%BA%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E6%97%A5%E3%83%8E%E5%87%BA%E9%A7%85&action=history"
+    },
+    {
+      "code": "キハ",
+      "name": "岐阜橋",
+      "reading": "ぎふばし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E6%A9%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B2%90%E9%98%9C%E6%A9%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "キヒ",
+      "name": "北比布",
+      "reading": "きたぴっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%AF%94%E5%B8%83%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E6%AF%94%E5%B8%83%E9%A7%85&action=history"
+    },
+    {
+      "code": "キヒ",
+      "name": "北広島",
+      "reading": "きたひろしま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%BA%83%E5%B3%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E5%BA%83%E5%B3%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "キフ",
+      "name": "北舟岡",
+      "reading": "きたふなおか",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%88%9F%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E8%88%9F%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "キヘ",
+      "name": "北秩父別",
+      "reading": "きたちっぷべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%A7%A9%E7%88%B6%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E7%A7%A9%E7%88%B6%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "キマ",
+      "name": "北浜",
+      "reading": "きたはま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%9C%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E6%B5%9C%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "キミ",
+      "name": "北見",
+      "reading": "きたみ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%A6%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E8%A6%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "キモ",
+      "name": "北母子里",
+      "reading": "きたもしり",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%AF%8D%E5%AD%90%E9%87%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E6%AF%8D%E5%AD%90%E9%87%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "キヨ",
+      "name": "清川口",
+      "reading": "きよかわぐち",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E5%B7%9D%E5%8F%A3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%85%E5%B7%9D%E5%8F%A3%E9%A7%85&action=history"
+    },
+    {
+      "code": "キヨ",
+      "name": "共栄",
+      "reading": "きょうえい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%B1%E6%A0%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%85%B1%E6%A0%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "キラ",
+      "name": "北吉原",
+      "reading": "きたよしはら",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%90%89%E5%8E%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E5%90%89%E5%8E%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "キリ",
+      "name": "本桐",
+      "reading": "ほんきり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E6%A1%90%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AC%E6%A1%90%E9%A7%85&action=history"
+    },
+    {
+      "code": "キン",
+      "name": "銀山",
+      "reading": "ぎんざん",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8A%80%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%8A%80%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "クオ",
+      "name": "栗丘",
+      "reading": "くりおか",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E4%B8%98%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A0%97%E4%B8%98%E9%A7%85&action=history"
+    },
+    {
+      "code": "クシ",
+      "name": "釧路",
+      "reading": "くしろ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%A7%E8%B7%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%87%A7%E8%B7%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "クチ",
+      "name": "倶知安",
+      "reading": "くっちゃん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%80%B6%E7%9F%A5%E5%AE%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%80%B6%E7%9F%A5%E5%AE%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "クツ",
+      "name": "東久根別",
+      "reading": "ひがしくねべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%B9%85%E6%A0%B9%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E4%B9%85%E6%A0%B9%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "クニ",
+      "name": "国縫",
+      "reading": "くんぬい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%B8%AB%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%9B%BD%E7%B8%AB%E9%A7%85&action=history"
+    },
+    {
+      "code": "クネ",
+      "name": "訓子府",
+      "reading": "くんねっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A8%93%E5%AD%90%E5%BA%9C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A8%93%E5%AD%90%E5%BA%9C%E9%A7%85&action=history"
+    },
+    {
+      "code": "クヘ",
+      "name": "久根別",
+      "reading": "くねべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E6%A0%B9%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B9%85%E6%A0%B9%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "クマ",
+      "name": "舎熊",
+      "reading": "しゃぐま",
+      "url": "https://ja.wikipedia.org/wiki/%E8%88%8E%E7%86%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%88%8E%E7%86%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "クモ",
+      "name": "八雲",
+      "reading": "やくも",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E9%9B%B2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%85%AB%E9%9B%B2%E9%A7%85&action=history"
+    },
+    {
+      "code": "クリ",
+      "name": "栗山",
+      "reading": "くりやま",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A0%97%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "クル",
+      "name": "咲来",
+      "reading": "さっくる",
+      "url": "https://ja.wikipedia.org/wiki/%E5%92%B2%E6%9D%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%92%B2%E6%9D%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "クロ",
+      "name": "黒岩",
+      "reading": "くろいわ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B2%A9%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%BB%92%E5%B2%A9%E9%A7%85&action=history"
+    },
+    {
+      "code": "クワ",
+      "name": "栗沢",
+      "reading": "くりさわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A0%97%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "クン",
+      "name": "将軍山",
+      "reading": "しょうぐんざん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%86%E8%BB%8D%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%86%E8%BB%8D%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ケセ",
+      "name": "原生花園",
+      "reading": "げんせいかえん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E7%94%9F%E8%8A%B1%E5%9C%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8E%9F%E7%94%9F%E8%8A%B1%E5%9C%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "ケヌ",
+      "name": "剣淵",
+      "reading": "けんぶち",
+      "url": "https://ja.wikipedia.org/wiki/%E5%89%A3%E6%B7%B5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%89%A3%E6%B7%B5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ケネ",
+      "name": "計根別",
+      "reading": "けねべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A8%88%E6%A0%B9%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A8%88%E6%A0%B9%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ケホ",
+      "name": "恵北",
+      "reading": "けいほく",
+      "url": "https://ja.wikipedia.org/wiki/%E6%81%B5%E5%8C%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%81%B5%E5%8C%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "コウ",
+      "name": "光珠内",
+      "reading": "こうしゅない",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E7%8F%A0%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%85%89%E7%8F%A0%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "コク",
+      "name": "五十石",
+      "reading": "ごじっこく",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E5%8D%81%E7%9F%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BA%94%E5%8D%81%E7%9F%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "ココ",
+      "name": "小石",
+      "reading": "こいし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%9F%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%8F%E7%9F%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "コシ",
+      "name": "宮越",
+      "reading": "みやこし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E8%B6%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AE%AE%E8%B6%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "コシ",
+      "name": "蘭越",
+      "reading": "らんこし",
+      "url": "https://ja.wikipedia.org/wiki/%E8%98%AD%E8%B6%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%98%AD%E8%B6%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "コセ",
+      "name": "瀬越",
+      "reading": "せごし",
+      "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E8%B6%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%80%AC%E8%B6%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "コツ",
+      "name": "渚滑",
+      "reading": "しょこつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%9A%E6%BB%91%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%9A%E6%BB%91%E9%A7%85&action=history"
+    },
+    {
+      "code": "コツ",
+      "name": "西興部",
+      "reading": "にしおこっぺ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E8%88%88%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E8%88%88%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "コト",
+      "name": "琴似",
+      "reading": "ことに",
+      "url": "https://ja.wikipedia.org/wiki/%E7%90%B4%E4%BC%BC%E9%A7%85_(JR%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%90%B4%E4%BC%BC%E9%A7%85+%28JR%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "コニ",
+      "name": "新琴似",
+      "reading": "しんことに",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%90%B4%E4%BC%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E7%90%B4%E4%BC%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "コネ",
+      "name": "黄金",
+      "reading": "こがね",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%84%E9%87%91%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%BB%84%E9%87%91%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "コハ",
+      "name": "湖畔",
+      "reading": "こはん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B9%96%E7%95%94%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B9%96%E7%95%94%E9%A7%85&action=history"
+    },
+    {
+      "code": "コヒ",
+      "name": "声問",
+      "reading": "こえとい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A3%B0%E5%95%8F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A3%B0%E5%95%8F%E9%A7%85&action=history"
+    },
+    {
+      "code": "コフ",
+      "name": "昆布",
+      "reading": "こんぶ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%86%E5%B8%83%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%98%86%E5%B8%83%E9%A7%85&action=history"
+    },
+    {
+      "code": "コホ",
+      "name": "小幌",
+      "reading": "こぼろ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%8F%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "コマ",
+      "name": "駒ヶ岳",
+      "reading": "こまがたけ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A7%92%E3%83%B6%E5%B2%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%A7%92%E3%83%B6%E5%B2%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "コム",
+      "name": "小向",
+      "reading": "こむかい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%90%91%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%8F%E5%90%91%E9%A7%85&action=history"
+    },
+    {
+      "code": "コヨ",
+      "name": "虎杖浜",
+      "reading": "こじょうはま",
+      "url": "https://ja.wikipedia.org/wiki/%E8%99%8E%E6%9D%96%E6%B5%9C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%99%8E%E6%9D%96%E6%B5%9C%E9%A7%85&action=history"
+    },
+    {
+      "code": "コラ",
+      "name": "琴平",
+      "reading": "ことひら",
+      "url": "https://ja.wikipedia.org/wiki/%E7%90%B4%E5%B9%B3%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%90%B4%E5%B9%B3%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "コリ",
+      "name": "五稜郭",
+      "reading": "ごりょうかく",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E7%A8%9C%E9%83%AD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BA%94%E7%A8%9C%E9%83%AD%E9%A7%85&action=history"
+    },
+    {
+      "code": "コン",
+      "name": "昆布盛",
+      "reading": "こんぶもり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%86%E5%B8%83%E7%9B%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%98%86%E5%B8%83%E7%9B%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "サイ",
+      "name": "於札内",
+      "reading": "おさつない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%BC%E6%9C%AD%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%BC%E6%9C%AD%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "サエ",
+      "name": "新栄野",
+      "reading": "しんさかえの",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%A0%84%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E6%A0%84%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "サオ",
+      "name": "桜岡",
+      "reading": "さくらおか",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A1%9C%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "サカ",
+      "name": "札苅",
+      "reading": "さつかり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E8%8B%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AD%E8%8B%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "サキ",
+      "name": "山崎",
+      "reading": "やまさき",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B4%8E%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B1%B1%E5%B4%8E%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "サク",
+      "name": "佐久",
+      "reading": "さく",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BD%90%E4%B9%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "サコ",
+      "name": "高砂",
+      "reading": "たかさご",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%A0%82%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%AB%98%E7%A0%82%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "サツ",
+      "name": "札幌",
+      "reading": "さっぽろ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AD%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "サテ",
+      "name": "札的",
+      "reading": "さってき",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E7%9A%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AD%E7%9A%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "サト",
+      "name": "滝里",
+      "reading": "たきさと",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BB%9D%E9%87%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%BB%9D%E9%87%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "サナ",
+      "name": "札内",
+      "reading": "さつない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AD%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "サノ",
+      "name": "境野",
+      "reading": "さかいの",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A2%83%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A2%83%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "サヒ",
+      "name": "札比内",
+      "reading": "さっぴない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E6%AF%94%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AD%E6%AF%94%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "サフ",
+      "name": "猿払",
+      "reading": "さるふつ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%8C%BF%E6%89%95%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%8C%BF%E6%89%95%E9%A7%85&action=history"
+    },
+    {
+      "code": "サホ",
+      "name": "サッポロビール庭園",
+      "reading": "さっぽろびーるていえん",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%93%E3%83%BC%E3%83%AB%E5%BA%AD%E5%9C%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%93%E3%83%BC%E3%83%AB%E5%BA%AD%E5%9C%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "サマ",
+      "name": "筬島",
+      "reading": "おさしま",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AD%AC%E5%B3%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%AD%AC%E5%B3%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "サム",
+      "name": "発寒",
+      "reading": "はっさむ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BA%E5%AF%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%99%BA%E5%AF%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "サモ",
+      "name": "崎守",
+      "reading": "さきもり",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B4%8E%E5%AE%88%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B4%8E%E5%AE%88%E9%A7%85&action=history"
+    },
+    {
+      "code": "サラ",
+      "name": "桜庭",
+      "reading": "さくらば",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%BA%AD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A1%9C%E5%BA%AD%E9%A7%85&action=history"
+    },
+    {
+      "code": "サル",
+      "name": "沙留",
+      "reading": "さるる",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%99%E7%95%99%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B2%99%E7%95%99%E9%A7%85&action=history"
+    },
+    {
+      "code": "サワ",
+      "name": "小沢",
+      "reading": "こざわ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%8F%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "シイ",
+      "name": "白石",
+      "reading": "しろいし",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E9%A7%85_(JR%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%99%BD%E7%9F%B3%E9%A7%85+%28JR%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "シウ",
+      "name": "渡島知内",
+      "reading": "おしましりうち",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E7%9F%A5%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%A1%E5%B3%B6%E7%9F%A5%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "シウ",
+      "name": "新成生",
+      "reading": "しんなりう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%88%90%E7%94%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E6%88%90%E7%94%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "シオ",
+      "name": "新大楽毛",
+      "reading": "しんおたのしけ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A4%A7%E6%A5%BD%E6%AF%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%A4%A7%E6%A5%BD%E6%AF%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "シカ",
+      "name": "鹿討",
+      "reading": "しかうち",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E8%A8%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B9%BF%E8%A8%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "シカ",
+      "name": "然別",
+      "reading": "しかりべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%84%B6%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%84%B6%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "シク",
+      "name": "銚子口",
+      "reading": "ちょうしぐち",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8A%9A%E5%AD%90%E5%8F%A3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%8A%9A%E5%AD%90%E5%8F%A3%E9%A7%85&action=history"
+    },
+    {
+      "code": "シケ",
+      "name": "大楽毛",
+      "reading": "おたのしけ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A5%BD%E6%AF%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E6%A5%BD%E6%AF%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "シコ",
+      "name": "森林公園",
+      "reading": "しんりんこうえん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "シサ",
+      "name": "新旭川",
+      "reading": "しんあさひかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%97%AD%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E6%97%AD%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "シス",
+      "name": "下鶉",
+      "reading": "しもうずら",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%B6%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E9%B6%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "シセ",
+      "name": "新千歳空港",
+      "reading": "しんちとせ くうこう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%8D%83%E6%AD%B3%E7%A9%BA%E6%B8%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%8D%83%E6%AD%B3%E7%A9%BA%E6%B8%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "シタ",
+      "name": "社台",
+      "reading": "しゃだい",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E5%8F%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A4%BE%E5%8F%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "シチ",
+      "name": "潮見町",
+      "reading": "しおみちょう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BD%AE%E8%A6%8B%E7%94%BA%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%BD%AE%E8%A6%8B%E7%94%BA%E9%A7%85&action=history"
+    },
+    {
+      "code": "シチ",
+      "name": "標茶",
+      "reading": "しべちゃ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A8%99%E8%8C%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A8%99%E8%8C%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "シツ",
+      "name": "釧路湿原",
+      "reading": "くしろしつげん",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%A7%E8%B7%AF%E6%B9%BF%E5%8E%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%87%A7%E8%B7%AF%E6%B9%BF%E5%8E%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "シツ",
+      "name": "静狩",
+      "reading": "しずかり",
+      "url": "https://ja.wikipedia.org/wiki/%E9%9D%99%E7%8B%A9%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%9D%99%E7%8B%A9%E9%A7%85&action=history"
+    },
+    {
+      "code": "シツ",
+      "name": "下士別",
+      "reading": "しもしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%A3%AB%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E5%A3%AB%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "シト",
+      "name": "下頓別",
+      "reading": "しもとんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%A0%93%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E9%A0%93%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "シナ",
+      "name": "静内",
+      "reading": "しずない",
+      "url": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%9D%99%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "シハ",
+      "name": "芦川",
+      "reading": "あしかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%A6%E5%B7%9D%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%A6%E5%B7%9D%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "シフ",
+      "name": "新富士",
+      "reading": "しんふじ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AF%8C%E5%A3%AB%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%AF%8C%E5%A3%AB%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "シヘ",
+      "name": "士別",
+      "reading": "しべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A3%AB%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A3%AB%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "シホ",
+      "name": "塩谷",
+      "reading": "しおや",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%A9%E8%B0%B7%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A1%A9%E8%B0%B7%E9%A7%85&action=history"
+    },
+    {
+      "code": "シマ",
+      "name": "蘭島",
+      "reading": "らんしま",
+      "url": "https://ja.wikipedia.org/wiki/%E8%98%AD%E5%B3%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%98%AD%E5%B3%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "シミ",
+      "name": "清水沢",
+      "reading": "しみずさわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%85%E6%B0%B4%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "シミ",
+      "name": "新富",
+      "reading": "しんとみ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AF%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%AF%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "シム",
+      "name": "占冠",
+      "reading": "しむかっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%A0%E5%86%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%A0%E5%86%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "シモ",
+      "name": "下金山",
+      "reading": "しもかなやま",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%91%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E9%87%91%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "シヤ",
+      "name": "知床斜里",
+      "reading": "しれとこしゃり",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%A5%E5%BA%8A%E6%96%9C%E9%87%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9F%A5%E5%BA%8A%E6%96%9C%E9%87%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "シユ",
+      "name": "新夕張",
+      "reading": "しんゆうばり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A4%95%E5%BC%B5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%A4%95%E5%BC%B5%E9%A7%85&action=history"
+    },
+    {
+      "code": "シヨ",
+      "name": "新吉野",
+      "reading": "しんよしの",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%90%89%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%90%89%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "シラ",
+      "name": "白老",
+      "reading": "しらおい",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E8%80%81%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%99%BD%E8%80%81%E9%A7%85&action=history"
+    },
+    {
+      "code": "シラ",
+      "name": "白樺",
+      "reading": "しらかば",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E6%A8%BA%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%99%BD%E6%A8%BA%E9%A7%85&action=history"
+    },
+    {
+      "code": "シリ",
+      "name": "塩狩",
+      "reading": "しおかり",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%8B%A9%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A1%A9%E7%8B%A9%E9%A7%85&action=history"
+    },
+    {
+      "code": "シワ",
+      "name": "新十津川",
+      "reading": "しんとつかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%8D%81%E6%B4%A5%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%8D%81%E6%B4%A5%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "シン",
+      "name": "新札幌",
+      "reading": "しんさっぽろ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%9C%AD%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E6%9C%AD%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "シン",
+      "name": "神明",
+      "reading": "しんめい",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%98%8E%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A5%9E%E6%98%8E%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "スタ",
+      "name": "中須田",
+      "reading": "なかすだ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%A0%88%E7%94%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E9%A0%88%E7%94%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "スナ",
+      "name": "砂川",
+      "reading": "すながわ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A0%82%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A0%82%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "スホ",
+      "name": "瑞穂",
+      "reading": "みずほ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%91%9E%E7%A9%82%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%91%9E%E7%A9%82%E9%A7%85&action=history"
+    },
+    {
+      "code": "スマ",
+      "name": "鱒浦",
+      "reading": "ますうら",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B1%92%E6%B5%A6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B1%92%E6%B5%A6%E9%A7%85&action=history"
+    },
+    {
+      "code": "スミ",
+      "name": "稲積公園",
+      "reading": "いなづみこうえん",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E7%A9%8D%E5%85%AC%E5%9C%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A8%B2%E7%A9%8D%E5%85%AC%E5%9C%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "スラ",
+      "name": "鶉",
+      "reading": "うずら",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B6%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B6%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "セケ",
+      "name": "千軒",
+      "reading": "せんげん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%BB%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%83%E8%BB%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "セセ",
+      "name": "瀬戸瀬",
+      "reading": "せとせ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E7%80%AC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%80%AC%E6%88%B8%E7%80%AC%E9%A7%85&action=history"
+    },
+    {
+      "code": "セニ",
+      "name": "銭函",
+      "reading": "ぜにばこ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8A%AD%E5%87%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%8A%AD%E5%87%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "セヒ",
+      "name": "仙美里",
+      "reading": "せんびり",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%99%E7%BE%8E%E9%87%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BB%99%E7%BE%8E%E9%87%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "セフ",
+      "name": "節婦",
+      "reading": "せっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AF%80%E5%A9%A6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%AF%80%E5%A9%A6%E9%A7%85&action=history"
+    },
+    {
+      "code": "セワ",
+      "name": "政和",
+      "reading": "せいわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%94%BF%E5%92%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%94%BF%E5%92%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ソウ",
+      "name": "桑園",
+      "reading": "そうえん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%9C%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A1%91%E5%9C%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "ソエ",
+      "name": "添牛内",
+      "reading": "そえうしない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B7%BB%E7%89%9B%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B7%BB%E7%89%9B%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "タイ",
+      "name": "蕨岱",
+      "reading": "わらびたい",
+      "url": "https://ja.wikipedia.org/wiki/%E8%95%A8%E5%B2%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%95%A8%E5%B2%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "タウ",
+      "name": "当別",
+      "reading": "とうべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BD%93%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BD%93%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "タカ",
+      "name": "高島",
+      "reading": "たかしま",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B3%B6%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%AB%98%E5%B3%B6%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "タキ",
+      "name": "滝川",
+      "reading": "たきかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BB%9D%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%BB%9D%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "タク",
+      "name": "拓北",
+      "reading": "たくほく",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8B%93%E5%8C%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%8B%93%E5%8C%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "タケ",
+      "name": "竹浦",
+      "reading": "たけうら",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E6%B5%A6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%AB%B9%E6%B5%A6%E9%A7%85&action=history"
+    },
+    {
+      "code": "タコ",
+      "name": "小樽築港",
+      "reading": "おたるちっこう",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A8%BD%E7%AF%89%E6%B8%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%8F%E6%A8%BD%E7%AF%89%E6%B8%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "タセ",
+      "name": "大成",
+      "reading": "たいせい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%88%90%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E6%88%90%E9%A7%85&action=history"
+    },
+    {
+      "code": "タテ",
+      "name": "伊達紋別",
+      "reading": "だてもんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E7%B4%8B%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BC%8A%E9%81%94%E7%B4%8B%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "タト",
+      "name": "多度志",
+      "reading": "たどし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%BA%A6%E5%BF%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%9A%E5%BA%A6%E5%BF%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "タナ",
+      "name": "歌内",
+      "reading": "うたない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%8C%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%AD%8C%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "タニ",
+      "name": "鹿ノ谷",
+      "reading": "しかのたに",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E3%83%8E%E8%B0%B7%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B9%BF%E3%83%8E%E8%B0%B7%E9%A7%85&action=history"
+    },
+    {
+      "code": "タノ",
+      "name": "端野",
+      "reading": "たんの",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%AF%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%AB%AF%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "タヒ",
+      "name": "竜飛海底",
+      "reading": "たっぴかいてい",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%9C%E9%A3%9B%E6%B5%B7%E5%BA%95%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%AB%9C%E9%A3%9B%E6%B5%B7%E5%BA%95%E9%A7%85&action=history"
+    },
+    {
+      "code": "タヘ",
+      "name": "太平",
+      "reading": "たいへい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%AA%E5%B9%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "タホ",
+      "name": "当幌",
+      "reading": "とうほろ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BD%93%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BD%93%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "タマ",
+      "name": "鷹泊",
+      "reading": "たかどまり",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B7%B9%E6%B3%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B7%B9%E6%B3%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "タミ",
+      "name": "西北見",
+      "reading": "にしきたみ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%8C%97%E8%A6%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E5%8C%97%E8%A6%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "タモ",
+      "name": "日高門別",
+      "reading": "ひだかもんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E9%96%80%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%AB%98%E9%96%80%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "タヨ",
+      "name": "多寄",
+      "reading": "たよろ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%AF%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%9A%E5%AF%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "タル",
+      "name": "南小樽",
+      "reading": "みなみおたる",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%B0%8F%E6%A8%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E5%B0%8F%E6%A8%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "チオ",
+      "name": "知来乙",
+      "reading": "ちらいおつ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%A5%E6%9D%A5%E4%B9%99%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9F%A5%E6%9D%A5%E4%B9%99%E9%A7%85&action=history"
+    },
+    {
+      "code": "チコ",
+      "name": "南千歳",
+      "reading": "みなみちとせ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%8D%83%E6%AD%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E5%8D%83%E6%AD%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "チセ",
+      "name": "千歳",
+      "reading": "ちとせ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%AD%B3%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%83%E6%AD%B3%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "チツ",
+      "name": "秩父別",
+      "reading": "ちっぷべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A7%A9%E7%88%B6%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "チト",
+      "name": "智東",
+      "reading": "ちとう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%99%BA%E6%9D%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%99%BA%E6%9D%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "チナ",
+      "name": "茶内",
+      "reading": "ちゃない",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%B6%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8C%B6%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "チノ",
+      "name": "浅茅野",
+      "reading": "あさじの",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%85%E8%8C%85%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%85%E8%8C%85%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "チフ",
+      "name": "智恵文",
+      "reading": "ちえぶん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%99%BA%E6%81%B5%E6%96%87%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%99%BA%E6%81%B5%E6%96%87%E9%A7%85&action=history"
+    },
+    {
+      "code": "チホ",
+      "name": "智北",
+      "reading": "ちほく",
+      "url": "https://ja.wikipedia.org/wiki/%E6%99%BA%E5%8C%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%99%BA%E5%8C%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "チヤ",
+      "name": "茶志内",
+      "reading": "ちゃしない",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%B6%E5%BF%97%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8C%B6%E5%BF%97%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "チヨ",
+      "name": "千代ヶ岡",
+      "reading": "ちよがおか",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E4%BB%A3%E3%83%B6%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%83%E4%BB%A3%E3%83%B6%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ツオ",
+      "name": "月ヶ岡",
+      "reading": "つきがおか",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%88%E3%83%B6%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%88%E3%83%B6%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ツカ",
+      "name": "厚賀",
+      "reading": "あつが",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8E%9A%E8%B3%80%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8E%9A%E8%B3%80%E9%A7%85&action=history"
+    },
+    {
+      "code": "ツキ",
+      "name": "石狩月形",
+      "reading": "いしかりつきがた",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%8B%A9%E6%9C%88%E5%BD%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9F%B3%E7%8B%A9%E6%9C%88%E5%BD%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "ツタ",
+      "name": "桂台",
+      "reading": "かつらだい",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%82%E5%8F%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A1%82%E5%8F%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "ツマ",
+      "name": "鶴沼",
+      "reading": "つるぬま",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E6%B2%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B6%B4%E6%B2%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "ツラ",
+      "name": "桂岡",
+      "reading": "かつらおか",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%82%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A1%82%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ツル",
+      "name": "渡島鶴岡",
+      "reading": "おしまつるおか",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E9%B6%B4%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%A1%E5%B3%B6%E9%B6%B4%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ツル",
+      "name": "札弦",
+      "reading": "さっつる",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%BC%A6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AD%E5%BC%A6%E9%A7%85&action=history"
+    },
+    {
+      "code": "ツワ",
+      "name": "桂川",
+      "reading": "かつらがわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%82%E5%B7%9D%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A1%82%E5%B7%9D%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "テオ",
+      "name": "天塩川温泉",
+      "reading": "てしおがわおんせん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%A1%A9%E5%B7%9D%E6%B8%A9%E6%B3%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A9%E5%A1%A9%E5%B7%9D%E6%B8%A9%E6%B3%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "テカ",
+      "name": "摩周",
+      "reading": "ましゅう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%91%A9%E5%91%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%91%A9%E5%91%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "テナ",
+      "name": "天塩中川",
+      "reading": "てしおなかがわ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%A1%A9%E4%B8%AD%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A9%E5%A1%A9%E4%B8%AD%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "テネ",
+      "name": "手稲",
+      "reading": "ていね",
+      "url": "https://ja.wikipedia.org/wiki/%E6%89%8B%E7%A8%B2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%89%8B%E7%A8%B2%E9%A7%85&action=history"
+    },
+    {
+      "code": "テマ",
+      "name": "天幕",
+      "reading": "てんまく",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%B9%95%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A9%E5%B9%95%E9%A7%85&action=history"
+    },
+    {
+      "code": "テヤ",
+      "name": "天塩弥生",
+      "reading": "てしおやよい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%A1%A9%E5%BC%A5%E7%94%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A9%E5%A1%A9%E5%BC%A5%E7%94%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "テン",
+      "name": "学田",
+      "reading": "がくでん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AD%A6%E7%94%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AD%A6%E7%94%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "トウ",
+      "name": "当麻",
+      "reading": "とうま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BD%93%E9%BA%BB%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BD%93%E9%BA%BB%E9%A7%85&action=history"
+    },
+    {
+      "code": "トオ",
+      "name": "洞爺",
+      "reading": "とうや",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B4%9E%E7%88%BA%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B4%9E%E7%88%BA%E9%A7%85&action=history"
+    },
+    {
+      "code": "トカ",
+      "name": "別当賀",
+      "reading": "べっとが",
+      "url": "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%BD%93%E8%B3%80%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%88%A5%E5%BD%93%E8%B3%80%E9%A7%85&action=history"
+    },
+    {
+      "code": "トク",
+      "name": "新得",
+      "reading": "しんとく",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BE%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%BE%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "トサ",
+      "name": "遠浅",
+      "reading": "とあさ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E6%B5%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%81%A0%E6%B5%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "トシ",
+      "name": "利別",
+      "reading": "としべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%88%A9%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%88%A9%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "トス",
+      "name": "豊清水",
+      "reading": "とよしみず",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B8%85%E6%B0%B4%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E6%B8%85%E6%B0%B4%E9%A7%85&action=history"
+    },
+    {
+      "code": "トタ",
+      "name": "峠下",
+      "reading": "とうげした",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%A0%E4%B8%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B3%A0%E4%B8%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "トツ",
+      "name": "徳満",
+      "reading": "とくみつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E6%BA%80%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BE%B3%E6%BA%80%E9%A7%85&action=history"
+    },
+    {
+      "code": "トト",
+      "name": "十三里",
+      "reading": "とみさと",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%81%E4%B8%89%E9%87%8C%E4%BF%A1%E5%8F%B7%E5%A0%B4",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%81%E4%B8%89%E9%87%8C%E4%BF%A1%E5%8F%B7%E5%A0%B4&action=history"
+    },
+    {
+      "code": "トト",
+      "name": "豊富",
+      "reading": "とよとみ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%AF%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E5%AF%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "トヌ",
+      "name": "豊沼",
+      "reading": "とよぬま",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B2%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E6%B2%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "トノ",
+      "name": "豊野",
+      "reading": "とよの",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E9%87%8E%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E9%87%8E%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "トヒ",
+      "name": "問寒別",
+      "reading": "といかんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%95%8F%E5%AF%92%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%95%8F%E5%AF%92%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "トフ",
+      "name": "十弗",
+      "reading": "とおふつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%BC%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%81%E5%BC%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "トヘ",
+      "name": "小利別",
+      "reading": "しょうとしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%88%A9%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%8F%E5%88%A9%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "トホ",
+      "name": "豊幌",
+      "reading": "とよほろ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "トマ",
+      "name": "苫小牧",
+      "reading": "とまこまい",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8B%AB%E5%B0%8F%E7%89%A7%E9%A7%85&action=history"
+    },
+    {
+      "code": "トム",
+      "name": "トマム",
+      "reading": "とまむ",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9E%E3%83%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E3%83%88%E3%83%9E%E3%83%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "トヤ",
+      "name": "遠矢",
+      "reading": "とおや",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E7%9F%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%81%A0%E7%9F%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "トヨ",
+      "name": "豊住",
+      "reading": "とよずみ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E4%BD%8F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E4%BD%8F%E9%A7%85&action=history"
+    },
+    {
+      "code": "トラ",
+      "name": "幾寅",
+      "reading": "いくとら",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%BE%E5%AF%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%BE%E5%AF%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "トロ",
+      "name": "塘路",
+      "reading": "とうろ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%98%E8%B7%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A1%98%E8%B7%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "トン",
+      "name": "小頓別",
+      "reading": "しょうとんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%A0%93%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B0%8F%E9%A0%93%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナア",
+      "name": "中愛別",
+      "reading": "なかあいべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%84%9B%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E6%84%9B%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナイ",
+      "name": "奈井江",
+      "reading": "ないえ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%88%E4%BA%95%E6%B1%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A5%88%E4%BA%95%E6%B1%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナオ",
+      "name": "中興部",
+      "reading": "なかおこっぺ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%88%88%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E8%88%88%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナオ",
+      "name": "流山温泉",
+      "reading": "ながれやまおんせん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%81%E5%B1%B1%E6%B8%A9%E6%B3%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%81%E5%B1%B1%E6%B8%A9%E6%B3%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナカ",
+      "name": "永山",
+      "reading": "ながやま",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B0%B8%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナツ",
+      "name": "稲士別",
+      "reading": "いなしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E5%A3%AB%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A8%B2%E5%A3%AB%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナト",
+      "name": "中頓別",
+      "reading": "なかとんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%A0%93%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E9%A0%93%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナナ",
+      "name": "七飯",
+      "reading": "ななえ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E9%A3%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%83%E9%A3%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナノ",
+      "name": "中富良野",
+      "reading": "なかふらの",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%AF%8C%E8%89%AF%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%AF%8C%E8%89%AF%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナハ",
+      "name": "七重浜",
+      "reading": "ななえはま",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E9%87%8D%E6%B5%9C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%83%E9%87%8D%E6%B5%9C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナフ",
+      "name": "中徳富",
+      "reading": "なかとっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%BE%B3%E5%AF%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%BE%B3%E5%AF%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナヘ",
+      "name": "中標津",
+      "reading": "なかしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%A8%99%E6%B4%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E6%A8%99%E6%B4%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナホ",
+      "name": "苗穂",
+      "reading": "なえぼ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8B%97%E7%A9%82%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8B%97%E7%A9%82%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナヤ",
+      "name": "中小屋",
+      "reading": "なかごや",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B0%8F%E5%B1%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%B0%8F%E5%B1%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナユ",
+      "name": "中湧別",
+      "reading": "なかゆうべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%B9%A7%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E6%B9%A7%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナヨ",
+      "name": "中名寄",
+      "reading": "なかなよろ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%90%8D%E5%AF%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%90%8D%E5%AF%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナリ",
+      "name": "中斜里",
+      "reading": "なかしゃり",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%96%9C%E9%87%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E6%96%9C%E9%87%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナロ",
+      "name": "名寄",
+      "reading": "なよろ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%AF%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%90%8D%E5%AF%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "ナワ",
+      "name": "中ノ沢",
+      "reading": "なかのさわ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E3%83%8E%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%AD%E3%83%8E%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニイ",
+      "name": "新川",
+      "reading": "しんかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B7%9D%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%B7%9D%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ニウ",
+      "name": "西御料",
+      "reading": "にしごりょう",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%BE%A1%E6%96%99%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E5%BE%A1%E6%96%99%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニオ",
+      "name": "錦岡",
+      "reading": "にしきおか",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8C%A6%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%8C%A6%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニカ",
+      "name": "西神楽",
+      "reading": "にしかぐら",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%A5%9E%E6%A5%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E7%A5%9E%E6%A5%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニキ",
+      "name": "仁木",
+      "reading": "にき",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%81%E6%9C%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BB%81%E6%9C%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニク",
+      "name": "西訓子府",
+      "reading": "にしくんねっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E8%A8%93%E5%AD%90%E5%BA%9C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E8%A8%93%E5%AD%90%E5%BA%9C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニサ",
+      "name": "西様似",
+      "reading": "にしさまに",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%A7%98%E4%BC%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E6%A7%98%E4%BC%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニシ",
+      "name": "西和田",
+      "reading": "にしわだ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%92%8C%E7%94%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E5%92%8C%E7%94%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニセ",
+      "name": "西聖和",
+      "reading": "にしせいわ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E8%81%96%E5%92%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E8%81%96%E5%92%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニセ",
+      "name": "ニセコ",
+      "reading": "にせこ",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%BB%E3%82%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E3%83%8B%E3%82%BB%E3%82%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニタ",
+      "name": "西歌",
+      "reading": "にしうた",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E6%AD%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニト",
+      "name": "西富",
+      "reading": "にしとみ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%AF%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E5%AF%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニナ",
+      "name": "西中",
+      "reading": "にしなか",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%B8%AD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E4%B8%AD%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニナ",
+      "name": "西名寄",
+      "reading": "にしなよろ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%90%8D%E5%AF%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E5%90%8D%E5%AF%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニノ",
+      "name": "二ノ橋",
+      "reading": "にのはし",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E3%83%8E%E6%A9%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BA%8C%E3%83%8E%E6%A9%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニヒ",
+      "name": "西帯広",
+      "reading": "にしおびひろ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B8%AF%E5%BA%83%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E5%B8%AF%E5%BA%83%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニフ",
+      "name": "新冠",
+      "reading": "にいかっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%86%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%86%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニミ",
+      "name": "西瑞穂",
+      "reading": "にしみずほ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%91%9E%E7%A9%82%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E7%91%9E%E7%A9%82%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニメ",
+      "name": "西女満別",
+      "reading": "にしめまんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%A5%B3%E6%BA%80%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E5%A5%B3%E6%BA%80%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニル",
+      "name": "西留辺蘂",
+      "reading": "にしるべしべ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%95%99%E8%BE%BA%E8%98%82%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E7%95%99%E8%BE%BA%E8%98%82%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニユ",
+      "name": "西春別",
+      "reading": "にししゅんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%98%A5%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E6%98%A5%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニロ",
+      "name": "西庶路",
+      "reading": "にししょろ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%BA%B6%E8%B7%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E5%BA%B6%E8%B7%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "ニン",
+      "name": "日進",
+      "reading": "にっしん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%80%B2%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%80%B2%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ヌウ",
+      "name": "沼牛",
+      "reading": "ぬまうし",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E7%89%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B2%BC%E7%89%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヌカ",
+      "name": "白糠",
+      "reading": "しらぬか",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%B3%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%99%BD%E7%B3%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヌサ",
+      "name": "沼ノ沢",
+      "reading": "ぬまのさわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E3%83%8E%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B2%BC%E3%83%8E%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヌナ",
+      "name": "糠南",
+      "reading": "ぬかなん",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B3%A0%E5%8D%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B3%A0%E5%8D%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヌノ",
+      "name": "布部",
+      "reading": "ぬのべ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B8%83%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B8%83%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヌマ",
+      "name": "沼ノ上",
+      "reading": "ぬまのうえ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E3%83%8E%E4%B8%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B2%BC%E3%83%8E%E4%B8%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヌリ",
+      "name": "渡島沼尻",
+      "reading": "おしまぬまじり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E6%B2%BC%E5%B0%BB%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%A1%E5%B3%B6%E6%B2%BC%E5%B0%BB%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヌワ",
+      "name": "沼川",
+      "reading": "ぬまかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B2%BC%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "ネイ",
+      "name": "恩根内",
+      "reading": "おんねない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%81%A9%E6%A0%B9%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%81%A9%E6%A0%B9%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ネシ",
+      "name": "根室標津",
+      "reading": "ねむろしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A0%B9%E5%AE%A4%E6%A8%99%E6%B4%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A0%B9%E5%AE%A4%E6%A8%99%E6%B4%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ネツ",
+      "name": "熱郛",
+      "reading": "ねっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%86%B1%E9%83%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%86%B1%E9%83%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ネム",
+      "name": "根室",
+      "reading": "ねむろ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A0%B9%E5%AE%A4%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A0%B9%E5%AE%A4%E9%A7%85&action=history"
+    },
+    {
+      "code": "ノタ",
+      "name": "野田生",
+      "reading": "のだおい",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E7%94%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%87%8E%E7%94%B0%E7%94%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "ノツ",
+      "name": "野幌",
+      "reading": "のっぽろ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%87%8E%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ノテ",
+      "name": "日ノ出",
+      "reading": "ひので",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E3%83%8E%E5%87%BA%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E3%83%8E%E5%87%BA%E9%A7%85&action=history"
+    },
+    {
+      "code": "ノナ",
+      "name": "野花南",
+      "reading": "のかなん",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E8%8A%B1%E5%8D%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%87%8E%E8%8A%B1%E5%8D%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "ノノ",
+      "name": "愛し野",
+      "reading": "いとしの",
+      "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E3%81%97%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%84%9B%E3%81%97%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "ノフ",
+      "name": "信砂",
+      "reading": "のぶしゃ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E7%A0%82%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BF%A1%E7%A0%82%E9%A7%85&action=history"
+    },
+    {
+      "code": "ノヘ",
+      "name": "幌延",
+      "reading": "ほろのべ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E5%BB%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%8C%E5%BB%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "ノホ",
+      "name": "登別",
+      "reading": "のぼりべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BB%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%99%BB%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ノロ",
+      "name": "篠路",
+      "reading": "しのろ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E8%B7%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%AF%A0%E8%B7%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハケ",
+      "name": "八軒",
+      "reading": "はちけん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E8%BB%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%85%AB%E8%BB%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハコ",
+      "name": "函館",
+      "reading": "はこだて",
+      "url": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%87%BD%E9%A4%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハサ",
+      "name": "花咲",
+      "reading": "はなさき",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%92%B2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%B1%E5%92%B2%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハシ",
+      "name": "一ノ橋",
+      "reading": "いちのはし",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%80%E3%83%8E%E6%A9%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%80%E3%83%8E%E6%A9%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハタ",
+      "name": "沼ノ端",
+      "reading": "ぬまのはた",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E3%83%8E%E7%AB%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B2%BC%E3%83%8E%E7%AB%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハチ",
+      "name": "発寒中央",
+      "reading": "はっさむちゅうおう",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BA%E5%AF%92%E4%B8%AD%E5%A4%AE%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%99%BA%E5%AF%92%E4%B8%AD%E5%A4%AE%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハツ",
+      "name": "抜海",
+      "reading": "ばっかい",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8A%9C%E6%B5%B7%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%8A%9C%E6%B5%B7%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハテ",
+      "name": "新函館北斗",
+      "reading": "しんはこだてほくと",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%87%BD%E9%A4%A8%E5%8C%97%E6%96%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%87%BD%E9%A4%A8%E5%8C%97%E6%96%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハト",
+      "name": "浜頓別",
+      "reading": "はまとんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%A0%93%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%9C%E9%A0%93%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハナ",
+      "name": "浜中",
+      "reading": "はまなか",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E4%B8%AD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%9C%E4%B8%AD%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハノ",
+      "name": "萩野",
+      "reading": "はぎの",
+      "url": "https://ja.wikipedia.org/wiki/%E8%90%A9%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%90%A9%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハノ",
+      "name": "初野",
+      "reading": "はつの",
+      "url": "https://ja.wikipedia.org/wiki/%E5%88%9D%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%88%9D%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハヘ",
+      "name": "箸別",
+      "reading": "はしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AE%B8%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%AE%B8%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハマ",
+      "name": "浜厚真",
+      "reading": "はまあつま",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%8E%9A%E7%9C%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%9C%E5%8E%9A%E7%9C%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハミ",
+      "name": "川上",
+      "reading": "かわかみ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%B8%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B7%9D%E4%B8%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハヤ",
+      "name": "早来",
+      "reading": "はやきた",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E6%9D%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A9%E6%9D%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハユ",
+      "name": "川湯温泉",
+      "reading": "かわゆおんせん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E6%B9%AF%E6%B8%A9%E6%B3%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B7%9D%E6%B9%AF%E6%B8%A9%E6%B3%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハヨ",
+      "name": "柏陽",
+      "reading": "はくよう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9F%8F%E9%99%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9F%8F%E9%99%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "ハル",
+      "name": "春立",
+      "reading": "はるたち",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E7%AB%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%98%A5%E7%AB%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒア",
+      "name": "東旭川",
+      "reading": "ひがしあさひかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%97%AD%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E6%97%AD%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒイ",
+      "name": "美瑛",
+      "reading": "びえい",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E7%91%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%BE%8E%E7%91%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒウ",
+      "name": "緋牛内",
+      "reading": "ひうしない",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B7%8B%E7%89%9B%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B7%8B%E7%89%9B%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒカ",
+      "name": "美深",
+      "reading": "びふか",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%B7%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%BE%8E%E6%B7%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒキ",
+      "name": "平岸",
+      "reading": "ひらぎし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B2%B8%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93%E8%B5%A4%E5%B9%B3%E5%B8%82)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%B3%E5%B2%B8%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%E8%B5%A4%E5%B9%B3%E5%B8%82%29&action=history"
+    },
+    {
+      "code": "ヒク",
+      "name": "東釧路",
+      "reading": "ひがしくしろ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%87%A7%E8%B7%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E9%87%A7%E8%B7%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒコ",
+      "name": "東鹿越",
+      "reading": "ひがししかごえ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%B9%BF%E8%B6%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E9%B9%BF%E8%B6%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒサ",
+      "name": "広郷",
+      "reading": "ひろさと",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E9%83%B7%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BA%83%E9%83%B7%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒシ",
+      "name": "美馬牛",
+      "reading": "びばうし",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E9%A6%AC%E7%89%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%BE%8E%E9%A6%AC%E7%89%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒス",
+      "name": "東鶉",
+      "reading": "ひがしうずら",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%B6%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E9%B6%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒチ",
+      "name": "東町",
+      "reading": "ひがしちょう",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E7%94%BA%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E7%94%BA%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒツ",
+      "name": "日高三石",
+      "reading": "ひだかみついし",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E4%B8%89%E7%9F%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%AB%98%E4%B8%89%E7%9F%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒト",
+      "name": "日高東別",
+      "reading": "ひだかとうべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E6%9D%B1%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%AB%98%E6%9D%B1%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒナ",
+      "name": "東静内",
+      "reading": "ひがししずない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%9D%99%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E9%9D%99%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒネ",
+      "name": "東根室",
+      "reading": "ひがしねむろ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%A0%B9%E5%AE%A4%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E6%A0%B9%E5%AE%A4%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒネ",
+      "name": "敏音知",
+      "reading": "ぴんねしり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%95%8F%E9%9F%B3%E7%9F%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%95%8F%E9%9F%B3%E7%9F%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒノ",
+      "name": "東相内",
+      "reading": "ひがしあいのない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E7%9B%B8%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E7%9B%B8%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒハ",
+      "name": "美唄",
+      "reading": "びばい",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%94%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%BE%8E%E5%94%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒフ",
+      "name": "比布",
+      "reading": "ぴっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AF%94%E5%B8%83%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%AF%94%E5%B8%83%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒヘ",
+      "name": "日高幌別",
+      "reading": "ひだかほろべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E5%B9%8C%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E9%AB%98%E5%B9%8C%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒホ",
+      "name": "東幌糠",
+      "reading": "ひがしほろぬか",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B9%8C%E7%B3%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E5%B9%8C%E7%B3%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒム",
+      "name": "東室蘭",
+      "reading": "ひがしむろらん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%AE%A4%E8%98%AD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E5%AE%A4%E8%98%AD%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒモ",
+      "name": "東森",
+      "reading": "ひがしもり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%A3%AE%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E6%A3%AE%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒヤ",
+      "name": "東山",
+      "reading": "ひがしやま",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B1%B1%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E5%B1%B1%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ヒラ",
+      "name": "安平",
+      "reading": "あびら",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%B9%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AE%89%E5%B9%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒロ",
+      "name": "美幌",
+      "reading": "びほろ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%BE%8E%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "フウ",
+      "name": "名寄高校",
+      "reading": "なよろこうこう",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%AF%84%E9%AB%98%E6%A0%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%90%8D%E5%AF%84%E9%AB%98%E6%A0%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "フエ",
+      "name": "絵笛",
+      "reading": "えふえ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B5%B5%E7%AC%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B5%B5%E7%AC%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "フカ",
+      "name": "深川",
+      "reading": "ふかがわ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B7%B1%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "フキ",
+      "name": "蕗ノ台",
+      "reading": "ふきのだい",
+      "url": "https://ja.wikipedia.org/wiki/%E8%95%97%E3%83%8E%E5%8F%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%95%97%E3%83%8E%E5%8F%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "フク",
+      "name": "渡島福島",
+      "reading": "おしまふくしま",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E7%A6%8F%E5%B3%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%A1%E5%B3%B6%E7%A6%8F%E5%B3%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "フサ",
+      "name": "古山",
+      "reading": "ふるさん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8F%A4%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "フセ",
+      "name": "古瀬",
+      "reading": "ふるせ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E7%80%AC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8F%A4%E7%80%AC%E9%A7%85&action=history"
+    },
+    {
+      "code": "フタ",
+      "name": "二股",
+      "reading": "ふたまた",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E8%82%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BA%8C%E8%82%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "フミ",
+      "name": "近文",
+      "reading": "ちかぶみ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E6%96%87%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%BF%91%E6%96%87%E9%A7%85&action=history"
+    },
+    {
+      "code": "フヤ",
+      "name": "藤山",
+      "reading": "ふじやま",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%97%A4%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "フレ",
+      "name": "風連",
+      "reading": "ふうれん",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A2%A8%E9%80%A3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%A2%A8%E9%80%A3%E9%A7%85&action=history"
+    },
+    {
+      "code": "フン",
+      "name": "志文",
+      "reading": "しぶん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BF%97%E6%96%87%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BF%97%E6%96%87%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヘカ",
+      "name": "別海",
+      "reading": "べっかい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%88%A5%E6%B5%B7%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%88%A5%E6%B5%B7%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヘツ",
+      "name": "幌別",
+      "reading": "ほろべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%8C%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヘホ",
+      "name": "別保",
+      "reading": "べっぽ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%88%A5%E4%BF%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%88%A5%E4%BF%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヘワ",
+      "name": "平和",
+      "reading": "へいわ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%92%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%B3%E5%92%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホイ",
+      "name": "本石倉",
+      "reading": "ほんいしくら",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%9F%B3%E5%80%89%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AC%E7%9F%B3%E5%80%89%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホウ",
+      "name": "蓬栄",
+      "reading": "ほうえい",
+      "url": "https://ja.wikipedia.org/wiki/%E8%93%AC%E6%A0%84%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%93%AC%E6%A0%84%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホク",
+      "name": "北星",
+      "reading": "ほくせい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%98%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E6%98%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホコ",
+      "name": "母恋",
+      "reading": "ぼこい",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AF%8D%E6%81%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%AF%8D%E6%81%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホコ",
+      "name": "北興",
+      "reading": "ほっこう",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%88%88%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E8%88%88%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホシ",
+      "name": "星置",
+      "reading": "ほしおき",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E7%BD%AE%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%98%9F%E7%BD%AE%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホシ",
+      "name": "北光社",
+      "reading": "ほっこうしゃ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%85%89%E7%A4%BE%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E5%85%89%E7%A4%BE%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホナ",
+      "name": "幌成",
+      "reading": "ほろなり",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E6%88%90%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%8C%E6%88%90%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホヌ",
+      "name": "幌糠",
+      "reading": "ほろぬか",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E7%B3%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%8C%E7%B3%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホノ",
+      "name": "上幌延",
+      "reading": "かみほろのべ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B9%8C%E5%BB%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%B9%8C%E5%BB%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホヘ",
+      "name": "本別",
+      "reading": "ほんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AC%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホミ",
+      "name": "ほしみ",
+      "reading": "ほしみ",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%BB%E3%81%97%E3%81%BF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E3%81%BB%E3%81%97%E3%81%BF%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホミ",
+      "name": "穂波",
+      "reading": "ほなみ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A9%82%E6%B3%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A9%82%E6%B3%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホリ",
+      "name": "下幌成",
+      "reading": "しもほろなり",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%B9%8C%E6%88%90%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E5%B9%8C%E6%88%90%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホロ",
+      "name": "幌内",
+      "reading": "ほろない",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%8C%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ホヲ",
+      "name": "細岡",
+      "reading": "ほそおか",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%B0%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B4%B0%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "マエ",
+      "name": "松前",
+      "reading": "まつまえ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%BE%E5%89%8D%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "マカ",
+      "name": "曲淵",
+      "reading": "まがりふち",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9B%B2%E6%B7%B5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9B%B2%E6%B7%B5%E9%A7%85&action=history"
+    },
+    {
+      "code": "マク",
+      "name": "幕別",
+      "reading": "まくべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%95%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%95%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "マケ",
+      "name": "増毛",
+      "reading": "ましけ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A2%97%E6%AF%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A2%97%E6%AF%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "マコ",
+      "name": "浜小清水",
+      "reading": "はまこしみず",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B0%8F%E6%B8%85%E6%B0%B4%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%9C%E5%B0%8F%E6%B8%85%E6%B0%B4%E9%A7%85&action=history"
+    },
+    {
+      "code": "マセ",
+      "name": "丸瀬布",
+      "reading": "まるせっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%80%AC%E5%B8%83%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%B8%E7%80%AC%E5%B8%83%E9%A7%85&action=history"
+    },
+    {
+      "code": "マタ",
+      "name": "石狩沼田",
+      "reading": "いしかりぬまた",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%8B%A9%E6%B2%BC%E7%94%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9F%B3%E7%8B%A9%E6%B2%BC%E7%94%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "マツ",
+      "name": "黒松内",
+      "reading": "くろまつない",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%9D%BE%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%BB%92%E6%9D%BE%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "マト",
+      "name": "渡島当別",
+      "reading": "おしまとうべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E5%BD%93%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%A1%E5%B3%B6%E5%BD%93%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "マニ",
+      "name": "様似",
+      "reading": "さまに",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A7%98%E4%BC%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A7%98%E4%BC%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "マネ",
+      "name": "松音知",
+      "reading": "まつねしり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E9%9F%B3%E7%9F%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%BE%E9%9F%B3%E7%9F%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "マフ",
+      "name": "真布",
+      "reading": "まっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%B8%83%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9C%9F%E5%B8%83%E9%A7%85&action=history"
+    },
+    {
+      "code": "ママ",
+      "name": "島松",
+      "reading": "しままつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%9D%BE%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B3%B6%E6%9D%BE%E9%A7%85&action=history"
+    },
+    {
+      "code": "マヤ",
+      "name": "釜谷",
+      "reading": "かまや",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%9C%E8%B0%B7%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%87%9C%E8%B0%B7%E9%A7%85&action=history"
+    },
+    {
+      "code": "マリ",
+      "name": "朱鞠内",
+      "reading": "しゅまりない",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%B1%E9%9E%A0%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%B1%E9%9E%A0%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "マル",
+      "name": "円山",
+      "reading": "まるやま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%86%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%86%86%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "マレ",
+      "name": "稀府",
+      "reading": "まれっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%80%E5%BA%9C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A8%80%E5%BA%9C%E9%A7%85&action=history"
+    },
+    {
+      "code": "マン",
+      "name": "長万部",
+      "reading": "おしゃまんべ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E4%B8%87%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%95%B7%E4%B8%87%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミオ",
+      "name": "上雄信内",
+      "reading": "かみおのっぷない",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%9B%84%E4%BF%A1%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E9%9B%84%E4%BF%A1%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミカ",
+      "name": "三川",
+      "reading": "みかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B7%9D%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%89%E5%B7%9D%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ミカ",
+      "name": "南美深",
+      "reading": "みなみびふか",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%BE%8E%E6%B7%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E7%BE%8E%E6%B7%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミケ",
+      "name": "御影",
+      "reading": "みかげ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%A1%E5%BD%B1%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BE%A1%E5%BD%B1%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ミサ",
+      "name": "御崎",
+      "reading": "みさき",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%A1%E5%B4%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BE%A1%E5%B4%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミシ",
+      "name": "南下沼",
+      "reading": "みなみしもぬま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E4%B8%8B%E6%B2%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E4%B8%8B%E6%B2%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミス",
+      "name": "十勝清水",
+      "reading": "とかちしみず",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%8B%9D%E6%B8%85%E6%B0%B4%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%81%E5%8B%9D%E6%B8%85%E6%B0%B4%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミセ",
+      "name": "南千歳",
+      "reading": "みなみちとせ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%8D%83%E6%AD%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E5%8D%83%E6%AD%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミテ",
+      "name": "南弟子屈",
+      "reading": "みなみてしかが",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%BC%9F%E5%AD%90%E5%B1%88%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E5%BC%9F%E5%AD%90%E5%B1%88%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミト",
+      "name": "上頓別",
+      "reading": "かみとんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%A0%93%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E9%A0%93%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミナ",
+      "name": "南稚内",
+      "reading": "みなみわっかない",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%A8%9A%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E7%A8%9A%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミネ",
+      "name": "峰延",
+      "reading": "みねのぶ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%B0%E5%BB%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B3%B0%E5%BB%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミノ",
+      "name": "上野幌",
+      "reading": "かみのっぽろ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E5%B9%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E9%87%8E%E5%B9%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミハ",
+      "name": "富川",
+      "reading": "とみかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AF%8C%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミヒ",
+      "name": "南比布",
+      "reading": "みなみぴっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%AF%94%E5%B8%83%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E6%AF%94%E5%B8%83%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミフ",
+      "name": "南下徳富",
+      "reading": "みなみしもとっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E4%B8%8B%E5%BE%B3%E5%AF%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E4%B8%8B%E5%BE%B3%E5%AF%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミヘ",
+      "name": "上芦別",
+      "reading": "かみあしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%8A%A6%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E8%8A%A6%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミホ",
+      "name": "南幌延",
+      "reading": "みなみほろのべ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%B9%8C%E5%BB%B6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E5%B9%8C%E5%BB%B6%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミミ",
+      "name": "南清水沢",
+      "reading": "みなみしみずさわ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B8%85%E6%B0%B4%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E6%B8%85%E6%B0%B4%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミヤ",
+      "name": "南永山",
+      "reading": "みなみながやま",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B0%B8%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E6%B0%B8%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミラ",
+      "name": "富浦",
+      "reading": "とみうら",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%B5%A6%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AF%8C%E6%B5%A6%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ミリ",
+      "name": "緑",
+      "reading": "みどり",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B7%91%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B7%91%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミロ",
+      "name": "上幌加内",
+      "reading": "かみほろかない",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B9%8C%E5%8A%A0%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%B9%8C%E5%8A%A0%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ミワ",
+      "name": "上川",
+      "reading": "かみかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8A%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "ムイ",
+      "name": "幌向",
+      "reading": "ほろむい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E5%90%91%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%8C%E5%90%91%E9%A7%85&action=history"
+    },
+    {
+      "code": "ムカ",
+      "name": "鵡川",
+      "reading": "むかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B5%A1%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B5%A1%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "ムサ",
+      "name": "武佐",
+      "reading": "むさ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E4%BD%90%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%AD%A6%E4%BD%90%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ムロ",
+      "name": "室蘭",
+      "reading": "むろらん",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AE%A4%E8%98%AD%E9%A7%85&action=history"
+    },
+    {
+      "code": "メク",
+      "name": "恵み野",
+      "reading": "めぐみの",
+      "url": "https://ja.wikipedia.org/wiki/%E6%81%B5%E3%81%BF%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%81%B5%E3%81%BF%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "メナ",
+      "name": "目名",
+      "reading": "めな",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%AE%E5%90%8D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9B%AE%E5%90%8D%E9%A7%85&action=history"
+    },
+    {
+      "code": "メマ",
+      "name": "女満別",
+      "reading": "めまんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%B3%E6%BA%80%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A5%B3%E6%BA%80%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "メム",
+      "name": "芽室",
+      "reading": "めむろ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%BD%E5%AE%A4%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8A%BD%E5%AE%A4%E9%A7%85&action=history"
+    },
+    {
+      "code": "モイ",
+      "name": "神威",
+      "reading": "かもい",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A8%81%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A5%9E%E5%A8%81%E9%A7%85&action=history"
+    },
+    {
+      "code": "モカ",
+      "name": "下中川",
+      "reading": "しもなかがわ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E4%B8%AD%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E4%B8%AD%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "モキ",
+      "name": "下白滝",
+      "reading": "しもしらたき",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%99%BD%E6%BB%9D%E4%BF%A1%E5%8F%B7%E5%A0%B4",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E7%99%BD%E6%BB%9D%E4%BF%A1%E5%8F%B7%E5%A0%B4&action=history"
+    },
+    {
+      "code": "モコ",
+      "name": "藻琴",
+      "reading": "もこと",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%BB%E7%90%B4%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%97%BB%E7%90%B4%E9%A7%85&action=history"
+    },
+    {
+      "code": "モシ",
+      "name": "茂尻",
+      "reading": "もしり",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%82%E5%B0%BB%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8C%82%E5%B0%BB%E9%A7%85&action=history"
+    },
+    {
+      "code": "モセ",
+      "name": "妹背牛",
+      "reading": "もせうし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A6%B9%E8%83%8C%E7%89%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A6%B9%E8%83%8C%E7%89%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "モチ",
+      "name": "茂辺地",
+      "reading": "もへじ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%82%E8%BE%BA%E5%9C%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8C%82%E8%BE%BA%E5%9C%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "モツ",
+      "name": "下徳富",
+      "reading": "しもとっぷ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%BE%B3%E5%AF%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E5%BE%B3%E5%AF%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "モト",
+      "name": "元紋別",
+      "reading": "もともんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%83%E7%B4%8B%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%85%83%E7%B4%8B%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "モナ",
+      "name": "本中小屋",
+      "reading": "もとなかごや",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E4%B8%AD%E5%B0%8F%E5%B1%8B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AC%E4%B8%AD%E5%B0%8F%E5%B1%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "モハ",
+      "name": "下川",
+      "reading": "しもかわ",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%B7%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E5%B7%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "モヘ",
+      "name": "紋別",
+      "reading": "もんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%8B%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B4%8B%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "モホ",
+      "name": "紋穂内",
+      "reading": "もんぽない",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%8B%E7%A9%82%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%B4%8B%E7%A9%82%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "モマ",
+      "name": "下沼",
+      "reading": "しもぬま",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E6%B2%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E6%B2%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "モユ",
+      "name": "文珠",
+      "reading": "もんじゅ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%87%E7%8F%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%87%E7%8F%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "モリ",
+      "name": "森",
+      "reading": "もり",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A3%AE%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "モワ",
+      "name": "本輪西",
+      "reading": "もとわにし",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E8%BC%AA%E8%A5%BF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AC%E8%BC%AA%E8%A5%BF%E9%A7%85&action=history"
+    },
+    {
+      "code": "モン",
+      "name": "門静",
+      "reading": "もんしず",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%80%E9%9D%99%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%96%80%E9%9D%99%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヤケ",
+      "name": "焼山",
+      "reading": "やけやま",
+      "url": "https://ja.wikipedia.org/wiki/%E7%84%BC%E5%B1%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%84%BC%E5%B1%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヤコ",
+      "name": "山越",
+      "reading": "やまこし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E8%B6%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B1%B1%E8%B6%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヤス",
+      "name": "安牛",
+      "reading": "やすうし",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%89%9B%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AE%89%E7%89%9B%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヤツ",
+      "name": "止別",
+      "reading": "やむべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A2%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%AD%A2%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヤニ",
+      "name": "安国",
+      "reading": "やすくに",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%9B%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AE%89%E5%9B%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヤフ",
+      "name": "矢文",
+      "reading": "やぶみ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%A2%E6%96%87%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9F%A2%E6%96%87%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヤマ",
+      "name": "山部",
+      "reading": "やまべ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%83%A8%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B1%B1%E9%83%A8%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヤヨ",
+      "name": "弥生",
+      "reading": "やよい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BC%A5%E7%94%9F%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BC%A5%E7%94%9F%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ヤリ",
+      "name": "南斜里",
+      "reading": "みなみしゃり",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%96%9C%E9%87%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E6%96%9C%E9%87%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヤル",
+      "name": "山軽",
+      "reading": "やまがる",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E8%BB%BD%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B1%B1%E8%BB%BD%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユウ",
+      "name": "夕張",
+      "reading": "ゆうばり",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%95%E5%BC%B5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%95%E5%BC%B5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユサ",
+      "name": "湯ノ里",
+      "reading": "ゆのさと",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E3%83%8E%E9%87%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B9%AF%E3%83%8E%E9%87%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユタ",
+      "name": "勇足",
+      "reading": "ゆうたり",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%B6%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8B%87%E8%B6%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユチ",
+      "name": "勇知",
+      "reading": "ゆうち",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8B%87%E7%9F%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8B%87%E7%9F%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユツ",
+      "name": "湧別",
+      "reading": "ゆうべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B9%A7%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B9%A7%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユニ",
+      "name": "由仁",
+      "reading": "ゆに",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B1%E4%BB%81%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%94%B1%E4%BB%81%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユノ",
+      "name": "湯ノ岱",
+      "reading": "ゆのたい",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E3%83%8E%E5%B2%B1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B9%AF%E3%83%8E%E5%B2%B1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユフ",
+      "name": "勇払",
+      "reading": "ゆうふつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8B%87%E6%89%95%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8B%87%E6%89%95%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユモ",
+      "name": "朱文別",
+      "reading": "しゅもんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%B1%E6%96%87%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%B1%E6%96%87%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユリ",
+      "name": "百合が原",
+      "reading": "ゆりがはら",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BE%E5%90%88%E3%81%8C%E5%8E%9F%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%99%BE%E5%90%88%E3%81%8C%E5%8E%9F%E9%A7%85&action=history"
+    },
+    {
+      "code": "ユン",
+      "name": "春別",
+      "reading": "しゅんべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%98%A5%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヨイ",
+      "name": "吉岡海底",
+      "reading": "よしおかかいてい",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%B2%A1%E6%B5%B7%E5%BA%95%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%90%89%E5%B2%A1%E6%B5%B7%E5%BA%95%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヨオ",
+      "name": "渡島吉岡",
+      "reading": "おしまよしおか",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E5%90%89%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%A1%E5%B3%B6%E5%90%89%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヨカ",
+      "name": "豊ヶ岡",
+      "reading": "とよがおか",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E3%83%B6%E5%B2%A1%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E3%83%B6%E5%B2%A1%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヨコ",
+      "name": "豊頃",
+      "reading": "とよころ",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E9%A0%83%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E9%A0%83%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヨサ",
+      "name": "豊郷",
+      "reading": "とよさと",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E9%83%B7%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E9%83%B7%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ヨシ",
+      "name": "吉堀",
+      "reading": "よしぼり",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%A0%80%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%90%89%E5%A0%80%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヨツ",
+      "name": "北豊津",
+      "reading": "きたとよつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%B1%8A%E6%B4%A5%E4%BF%A1%E5%8F%B7%E5%A0%B4",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%8C%97%E8%B1%8A%E6%B4%A5%E4%BF%A1%E5%8F%B7%E5%A0%B4&action=history"
+    },
+    {
+      "code": "ヨハ",
+      "name": "清畠",
+      "reading": "きよはた",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E7%95%A0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B8%85%E7%95%A0%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヨヒ",
+      "name": "呼人",
+      "reading": "よびと",
+      "url": "https://ja.wikipedia.org/wiki/%E5%91%BC%E4%BA%BA%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%91%BC%E4%BA%BA%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヨラ",
+      "name": "豊浦",
+      "reading": "とようら",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%A6%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%B1%8A%E6%B5%A6%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヨロ",
+      "name": "庶路",
+      "reading": "しょろ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BA%B6%E8%B7%AF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%BA%B6%E8%B7%AF%E9%A7%85&action=history"
+    },
+    {
+      "code": "ラキ",
+      "name": "白滝",
+      "reading": "しらたき",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E6%BB%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%99%BD%E6%BB%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "ラス",
+      "name": "浦臼",
+      "reading": "うらうす",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%A6%E8%87%BC%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B5%A6%E8%87%BC%E9%A7%85&action=history"
+    },
+    {
+      "code": "ラタ",
+      "name": "旧白滝",
+      "reading": "きゅうしらたき",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A7%E7%99%BD%E6%BB%9D%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%97%A7%E7%99%BD%E6%BB%9D%E9%A7%85&action=history"
+    },
+    {
+      "code": "ラノ",
+      "name": "富良野",
+      "reading": "ふらの",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E8%89%AF%E9%87%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%AF%8C%E8%89%AF%E9%87%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "ラフ",
+      "name": "比羅夫",
+      "reading": "ひらふ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AF%94%E7%BE%85%E5%A4%AB%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%AF%94%E7%BE%85%E5%A4%AB%E9%A7%85&action=history"
+    },
+    {
+      "code": "ラヘ",
+      "name": "ラベンダー畑",
+      "reading": "らべんだーばたけ",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E7%95%91%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E7%95%91%E9%A7%85&action=history"
+    },
+    {
+      "code": "ラン",
+      "name": "蘭留",
+      "reading": "らんる",
+      "url": "https://ja.wikipedia.org/wiki/%E8%98%AD%E7%95%99%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%98%AD%E7%95%99%E9%A7%85&action=history"
+    },
+    {
+      "code": "リウ",
+      "name": "知内",
+      "reading": "ゆのさとしりうち",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E3%81%AE%E9%87%8C%E7%9F%A5%E5%86%85%E4%BF%A1%E5%8F%B7%E5%A0%B4",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%B9%AF%E3%81%AE%E9%87%8C%E7%9F%A5%E5%86%85%E4%BF%A1%E5%8F%B7%E5%A0%B4&action=history"
+    },
+    {
+      "code": "リカ",
+      "name": "石狩金沢",
+      "reading": "いしかりかなざわ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%8B%A9%E9%87%91%E6%B2%A2%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%9F%B3%E7%8B%A9%E9%87%91%E6%B2%A2%E9%A7%85&action=history"
+    },
+    {
+      "code": "リク",
+      "name": "陸別",
+      "reading": "りくべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%99%B8%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%99%B8%E5%88%A5%E9%A7%85&action=history"
+    },
+    {
+      "code": "リコ",
+      "name": "森越",
+      "reading": "もりこし",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E8%B6%8A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%A3%AE%E8%B6%8A%E9%A7%85&action=history"
+    },
+    {
+      "code": "リマ",
+      "name": "掛澗",
+      "reading": "かかりま",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8E%9B%E6%BE%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%8E%9B%E6%BE%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "リミ",
+      "name": "太美",
+      "reading": "ふとみ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%BE%8E%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%AA%E7%BE%8E%E9%A7%85&action=history"
+    },
+    {
+      "code": "リン",
+      "name": "柏林台",
+      "reading": "はくりんだい",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97%E5%8F%B0%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9F%8F%E6%9E%97%E5%8F%B0%E9%A7%85&action=history"
+    },
+    {
+      "code": "ルイ",
+      "name": "津軽今別",
+      "reading": "おくつがるいまべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E6%B4%A5%E8%BB%BD%E3%81%84%E3%81%BE%E3%81%B9%E3%81%A4%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A5%A5%E6%B4%A5%E8%BB%BD%E3%81%84%E3%81%BE%E3%81%B9%E3%81%A4%E9%A7%85&action=history"
+    },
+    {
+      "code": "ルオ",
+      "name": "奥津軽いまべつ",
+      "reading": "おくつがるいまべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E6%B4%A5%E8%BB%BD%E3%81%84%E3%81%BE%E3%81%B9%E3%81%A4%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A5%A5%E6%B4%A5%E8%BB%BD%E3%81%84%E3%81%BE%E3%81%B9%E3%81%A4%E9%A7%85&action=history"
+    },
+    {
+      "code": "ルヘ",
+      "name": "留辺蘂",
+      "reading": "るべしべ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%95%99%E8%BE%BA%E8%98%82%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%95%99%E8%BE%BA%E8%98%82%E9%A7%85&action=history"
+    },
+    {
+      "code": "ルモ",
+      "name": "留萌",
+      "reading": "るもい",
+      "url": "https://ja.wikipedia.org/wiki/%E7%95%99%E8%90%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%95%99%E8%90%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ルワ",
+      "name": "美留和",
+      "reading": "びるわ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E7%95%99%E5%92%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%BE%8E%E7%95%99%E5%92%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "レウ",
+      "name": "礼受",
+      "reading": "れうけ",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A4%BC%E5%8F%97%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A4%BC%E5%8F%97%E9%A7%85&action=history"
+    },
+    {
+      "code": "レン",
+      "name": "礼文",
+      "reading": "れぶん",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A4%BC%E6%96%87%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A4%BC%E6%96%87%E9%A7%85&action=history"
+    },
+    {
+      "code": "ロイ",
+      "name": "ロイズタウン",
+      "reading": "ろいずたうん",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A4%E3%82%BA%E3%82%BF%E3%82%A6%E3%83%B3%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E3%83%AD%E3%82%A4%E3%82%BA%E3%82%BF%E3%82%A6%E3%83%B3%E9%A7%85&action=history"
+    },
+    {
+      "code": "ロカ",
+      "name": "幌加内",
+      "reading": "ほろかない",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E5%8A%A0%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B9%8C%E5%8A%A0%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ロク",
+      "name": "東六線",
+      "reading": "ひがしろくせん",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%85%AD%E7%B7%9A%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E5%85%AD%E7%B7%9A%E9%A7%85&action=history"
+    },
+    {
+      "code": "ワカ",
+      "name": "稚内",
+      "reading": "わっかない",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%9A%E5%86%85%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E7%A8%9A%E5%86%85%E9%A7%85&action=history"
+    },
+    {
+      "code": "ワケ",
+      "name": "東追分",
+      "reading": "ひがしおいわけ",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%BF%BD%E5%88%86%E4%BF%A1%E5%8F%B7%E5%A0%B4",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E8%BF%BD%E5%88%86%E4%BF%A1%E5%8F%B7%E5%A0%B4&action=history"
+    },
+    {
+      "code": "ワサ",
+      "name": "和寒",
+      "reading": "わっさむ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%92%8C%E5%AF%92%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%92%8C%E5%AF%92%E9%A7%85&action=history"
+    },
+    {
+      "code": "ワシ",
+      "name": "鷲ノ巣",
+      "reading": "わしのす",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B7%B2%E3%83%8E%E5%B7%A3%E4%BF%A1%E5%8F%B7%E5%A0%B4",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B7%B2%E3%83%8E%E5%B7%A3%E4%BF%A1%E5%8F%B7%E5%A0%B4&action=history"
+    },
+    {
+      "code": "ワタ",
+      "name": "大和田",
+      "reading": "おおわだ",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E7%94%B0%E9%A7%85_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E5%A4%A7%E5%92%8C%E7%94%B0%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
+    },
+    {
+      "code": "ワナ",
+      "name": "長和",
+      "reading": "ながわ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%92%8C%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%95%B7%E5%92%8C%E9%A7%85&action=history"
+    },
+    {
+      "code": "ワニ",
+      "name": "輪西",
+      "reading": "わにし",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BC%AA%E8%A5%BF%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E8%BC%AA%E8%A5%BF%E9%A7%85&action=history"
+    },
+    {
+      "code": "ワヘ",
+      "name": "鷲別",
+      "reading": "わしべつ",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B7%B2%E5%88%A5%E9%A7%85",
+      "history": "https://ja.wikipedia.org/w/index.php?title=%E9%B7%B2%E5%88%A5%E9%A7%85&action=history"
+    }
+  ]
+}
