@@ -22,12 +22,16 @@
   function empty(text) {
     result.replaceChildren(element('p', text ? 'state-message' : 'empty-mark', text || '—'));
   }
+  function noteText(station) {
+    return station.note ? '（' + station.note + '）' : '';
+  }
   function show(stations) {
     result.replaceChildren();
     for (const station of stations) {
       const block = element('div', 'station');
       const name = element('p', 'station-name' + (station.name.length > 7 ? ' long-name' : ''), station.name);
       name.append(element('small', '', '駅'));
+      if (station.note) name.append(element('span', 'station-note', noteText(station)));
       block.append(name, element('p', 'station-reading', station.reading));
       if (station.status === 'closed') block.append(element('p', 'station-status', '廃駅'));
       if (station.status === 'alias') block.append(element('p', 'station-status', '旧電略'));
@@ -59,7 +63,7 @@
       option.setAttribute('aria-selected', 'false');
       option.append(element('span', 'suggestion-code', station.code));
       const body = element('span', 'suggestion-body');
-      body.append(element('span', 'suggestion-name', station.name + '駅'), element('span', 'suggestion-reading', station.reading));
+      body.append(element('span', 'suggestion-name', station.name + '駅' + noteText(station)), element('span', 'suggestion-reading', station.reading));
       option.append(body);
       if (station.status === 'closed') option.append(element('span', 'suggestion-status', '廃駅'));
       if (station.status === 'alias') option.append(element('span', 'suggestion-status', '旧電略'));

@@ -552,6 +552,12 @@ window.STATIONS = [
     "status": "active"
   },
   {
+    "code": "オロカ",
+    "name": "帯広貨物",
+    "reading": "おびひろかもつ",
+    "status": "active"
+  },
+  {
     "code": "オワ",
     "name": "渡島大沢",
     "reading": "おしまおおさわ",
@@ -1101,6 +1107,12 @@ window.STATIONS = [
     "code": "コリ",
     "name": "五稜郭",
     "reading": "ごりょうかく",
+    "status": "active"
+  },
+  {
+    "code": "コリカ",
+    "name": "函館貨物",
+    "reading": "はこだてかもつ",
     "status": "active"
   },
   {
@@ -1944,6 +1956,12 @@ window.STATIONS = [
     "status": "active"
   },
   {
+    "code": "トマカ",
+    "name": "苫小牧貨物",
+    "reading": "とまこまいかもつ",
+    "status": "active"
+  },
+  {
     "code": "トム",
     "name": "トマム",
     "reading": "とまむ",
@@ -2600,6 +2618,13 @@ window.STATIONS = [
   {
     "code": "ヒム",
     "name": "東室蘭",
+    "reading": "ひがしむろらん",
+    "status": "active"
+  },
+  {
+    "code": "ヒムソ",
+    "name": "東室蘭",
+    "note": "東室蘭操車場",
     "reading": "ひがしむろらん",
     "status": "active"
   },

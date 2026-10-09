@@ -647,6 +647,14 @@
       "history": "https://ja.wikipedia.org/w/index.php?title=%E5%B8%AF%E5%BA%83%E9%A7%85&action=history"
     },
     {
+      "code": "オロカ",
+      "name": "帯広貨物",
+      "reading": "おびひろかもつ",
+      "retrieved": "2026-10-09",
+      "url": "https://ja.wikipedia.org/wiki/帯広貨物駅",
+      "history": "https://ja.wikipedia.org/w/index.php?title=帯広貨物駅&action=history"
+    },
+    {
       "code": "オワ",
       "name": "渡島大沢",
       "reading": "おしまおおさわ",
@@ -1289,6 +1297,14 @@
       "reading": "ごりょうかく",
       "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E7%A8%9C%E9%83%AD%E9%A7%85",
       "history": "https://ja.wikipedia.org/w/index.php?title=%E4%BA%94%E7%A8%9C%E9%83%AD%E9%A7%85&action=history"
+    },
+    {
+      "code": "コリカ",
+      "name": "函館貨物",
+      "reading": "はこだてかもつ",
+      "retrieved": "2026-10-09",
+      "url": "https://ja.wikipedia.org/wiki/五稜郭駅#JR貨物_函館貨物駅",
+      "history": "https://ja.wikipedia.org/w/index.php?title=五稜郭駅&action=history"
     },
     {
       "code": "コン",
@@ -2271,6 +2287,14 @@
       "history": "https://ja.wikipedia.org/w/index.php?title=%E8%8B%AB%E5%B0%8F%E7%89%A7%E9%A7%85&action=history"
     },
     {
+      "code": "トマカ",
+      "name": "苫小牧貨物",
+      "reading": "とまこまいかもつ",
+      "retrieved": "2026-10-09",
+      "url": "https://ja.wikipedia.org/wiki/苫小牧貨物駅",
+      "history": "https://ja.wikipedia.org/w/index.php?title=苫小牧貨物駅&action=history"
+    },
+    {
       "code": "トム",
       "name": "トマム",
       "reading": "とまむ",
@@ -3039,6 +3063,14 @@
       "reading": "ひがしむろらん",
       "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%AE%A4%E8%98%AD%E9%A7%85",
       "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9D%B1%E5%AE%A4%E8%98%AD%E9%A7%85&action=history"
+    },
+    {
+      "code": "ヒムソ",
+      "name": "東室蘭",
+      "reading": "ひがしむろらん",
+      "retrieved": "2026-10-09",
+      "url": "https://ja.wikipedia.org/wiki/東室蘭駅#JR貨物",
+      "history": "https://ja.wikipedia.org/w/index.php?title=東室蘭駅&action=history"
     },
     {
       "code": "ヒモ",
