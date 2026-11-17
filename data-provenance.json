@@ -1026,6 +1026,14 @@
       "history": "https://ja.wikipedia.org/w/index.php?title=%E6%9C%AC%E6%A1%90%E9%A7%85&action=history"
     },
     {
+      "code": "キワ",
+      "name": "北旭川",
+      "reading": "きたあさひかわ",
+      "retrieved": "2026-11-17",
+      "url": "https://ja.wikipedia.org/wiki/北旭川駅",
+      "history": "https://ja.wikipedia.org/w/index.php?title=北旭川駅&action=history"
+    },
+    {
       "code": "キン",
       "name": "銀山",
       "reading": "ぎんざん",
@@ -1615,6 +1623,14 @@
       "history": "https://ja.wikipedia.org/w/index.php?title=%E6%96%B0%E5%AF%8C%E5%A3%AB%E9%A7%85+%28%E5%8C%97%E6%B5%B7%E9%81%93%29&action=history"
     },
     {
+      "code": "シフ",
+      "name": "釧路貨物",
+      "reading": "くしろかもつ",
+      "retrieved": "2026-11-17",
+      "url": "https://ja.wikipedia.org/wiki/新富士駅_(北海道)#釧路貨物駅",
+      "history": "https://ja.wikipedia.org/w/index.php?title=新富士駅_(北海道)&action=history"
+    },
+    {
       "code": "シヘ",
       "name": "士別",
       "reading": "しべつ",
@@ -1949,6 +1965,14 @@
       "reading": "にしきたみ",
       "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%8C%97%E8%A6%8B%E9%A7%85",
       "history": "https://ja.wikipedia.org/w/index.php?title=%E8%A5%BF%E5%8C%97%E8%A6%8B%E9%A7%85&action=history"
+    },
+    {
+      "code": "タミ",
+      "name": "札幌貨物ターミナル",
+      "reading": "さっぽろかもつたーみなる",
+      "retrieved": "2026-11-17",
+      "url": "https://ja.wikipedia.org/wiki/札幌貨物ターミナル駅",
+      "history": "https://ja.wikipedia.org/w/index.php?title=札幌貨物ターミナル駅&action=history"
     },
     {
       "code": "タモ",

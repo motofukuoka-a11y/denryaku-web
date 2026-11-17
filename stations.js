@@ -876,6 +876,12 @@ window.STATIONS = [
     "status": "closed"
   },
   {
+    "code": "キワ",
+    "name": "北旭川",
+    "reading": "きたあさひかわ",
+    "status": "active"
+  },
+  {
     "code": "キン",
     "name": "銀山",
     "reading": "ぎんざん",
@@ -1380,6 +1386,12 @@ window.STATIONS = [
     "status": "active"
   },
   {
+    "code": "シフ",
+    "name": "釧路貨物",
+    "reading": "くしろかもつ",
+    "status": "active"
+  },
+  {
     "code": "シヘ",
     "name": "士別",
     "reading": "しべつ",
@@ -1665,6 +1677,12 @@ window.STATIONS = [
     "code": "タミ",
     "name": "西北見",
     "reading": "にしきたみ",
+    "status": "active"
+  },
+  {
+    "code": "タミ",
+    "name": "札幌貨物ターミナル",
+    "reading": "さっぽろかもつたーみなる",
     "status": "active"
   },
   {
